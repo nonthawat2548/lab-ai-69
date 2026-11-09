@@ -33,6 +33,28 @@ jobs:
       - name: Install Hugging Face CLI with Trusted Publisher support
         run: python -m pip install --disable-pip-version-check 'huggingface_hub>=1.19,<2'
 
+      - name: Diagnose trusted publisher identity (safe claims only)
+        env:
+          OIDC_REQUEST_URL: ${{ env.ACTIONS_ID_TOKEN_REQUEST_URL }}
+          OIDC_REQUEST_TOKEN: ${{ env.ACTIONS_ID_TOKEN_REQUEST_TOKEN }}
+        run: |
+          python - <<'PY'
+          import os, json, base64, urllib.request
+          url = os.environ.get('ACTIONS_ID_TOKEN_REQUEST_URL', '')
+          token = os.environ.get('ACTIONS_ID_TOKEN_REQUEST_TOKEN', '')
+          if not url or not token:
+              raise SystemExit('GitHub OIDC request environment missing: check id-token: write')
+          sep = '&' if '?' in url else '?'
+          req = urllib.request.Request(url + sep + 'audience=https%3A%2F%2Fhuggingface.co', headers={'Authorization': 'Bearer ' + token})
+          with urllib.request.urlopen(req, timeout=20) as response:
+              jwt = json.load(response)['value']
+          payload = jwt.split('.')[1]
+          claims = json.loads(base64.urlsafe_b64decode(payload + '=' * (-len(payload) % 4)))
+          for field in ('repository','ref','workflow','workflow_ref','event_name','aud'):
+              print(f"OIDC {field}: {claims.get(field, '(none)')}")
+          print('OIDC token itself is never printed or stored.')
+          PY
+
       - name: Upload app.py using GitHub OIDC (no access token required)
         env:
           HF_OIDC_RESOURCE: spaces/NONGAME/ThaiFood-AI-Gradio
