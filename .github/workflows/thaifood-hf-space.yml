@@ -53,12 +53,19 @@ jobs:
           print('OIDC token itself is never printed or stored.')
           PY
 
-      - name: Upload app.py using GitHub OIDC (no access token required)
+      - name: Validate code and nutrition data before publish
+        run: python thaifood_space/test_assets.py
+
+      - name: Upload validated source and data to existing Space using OIDC
         env:
           HF_OIDC_RESOURCE: spaces/NONGAME/ThaiFood-AI-Gradio
         run: |
-          hf upload NONGAME/ThaiFood-AI-Gradio thaifood_space/app.py app.py --repo-type space --commit-message "Update ThaiFood AI from reviewed GitHub branch"
+          hf upload NONGAME/ThaiFood-AI-Gradio thaifood_space . --repo-type space \
+            --include 'app.py' --include 'knowledge.py' --include 'nutrition_50.csv' \
+            --include 'evaluation.json' --include 'pdf_sources.json' \
+            --include 'requirements.txt' --include 'README.md' \
+            --commit-message "Sync validated ThaiFood AI source and data from GitHub"
 
       - name: Summary
         run: |
-          echo "Published ThaiFood AI app.py to existing Space; checkpoint, data and other files were preserved." >> "$GITHUB_STEP_SUMMARY"
+          echo "Published validated ThaiFood AI source and data to existing Space; pretrained checkpoint was preserved." >> "$GITHUB_STEP_SUMMARY"

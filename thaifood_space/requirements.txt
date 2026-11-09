@@ -1,0 +1,10 @@
+torch>=2.2,<3
+torchvision>=0.17,<1
+gradio>=6.0,<7
+numpy>=1.26,<3
+pandas>=2.2,<3
+scikit-learn>=1.5,<2
+pillow>=10,<13
+pymupdf>=1.24,<2
+requests>=2.31,<3
+google-genai>=1.0,<3

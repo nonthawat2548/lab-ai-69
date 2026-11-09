@@ -1,0 +1,12 @@
+{
+  "dataset": "thean/THFOOD-50",
+  "split": "test",
+  "n": 2105,
+  "accuracy": 0.838479809976247,
+  "macro_f1": 0.823326530289858,
+  "best_val_macro_f1": 0.8294247494636758,
+  "classes": 50,
+  "checkpoint_epoch": 15,
+  "training_method": "cached_features_frozen_backbone",
+  "provenance": "original evaluation.json saved in user Google Drive; no new assessment made during deployment"
+}
