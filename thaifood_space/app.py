@@ -1,5 +1,6 @@
 """ThaiFood AI demo. Uses an existing EfficientNet-B0 checkpoint; NEVER trains a model.
 Run locally: python app.py
+Deployment: GitHub Actions trusted publisher -> NONGAME/ThaiFood-AI-Gradio
 """
 from __future__ import annotations
 import json
