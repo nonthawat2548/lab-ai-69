@@ -55,3 +55,21 @@ The planning floor defaults to **100 train + 20 validation + 20 test images per 
 5. Promote the candidate checkpoint + complete label/recipe mappings to the Space only after acceptance. Keep the original model for rollback.
 
 **Current next requirement:** audited images covering all 150 additional menus, with a verified mapping for any public datasets used. Until those images exist and a 200-class model is actually trained and measured, the live system remains a 50-class classifier.
+
+## Candidate training pipeline
+
+`train_candidate.py` implements frozen EfficientNet-B0 feature extraction from the existing 50-class checkpoint, caches extracted features against hashes of the input images, labels, preprocessing and checkpoint, fits a new 200-class linear head, selects an epoch using validation macro F1, and records fresh test accuracy, macro F1, confusion matrix and the legacy-50 slice. The existing model file is read-only and outputs are written separately. External Google Forms photos must remain outside this manifest and are not included in its test metrics. A successful run produces only a **candidate**, not a deployment; the 200-class app's menu, nutrition and chatbot integrations still need to be implemented and tested before release.
+
+The training script refuses to run with the supplied empty manifest. It needs a complete, reviewed manifest and actual images for all 200 classes; the 100-class and 20-dessert source collections have not yet been mapped or imported. The minimum image counts are adjustable planning parameters, not proof of scientific validity or model accuracy. Cached-feature training is not a guarantee that a 200-class model will perform acceptably. Check source license terms before collecting data or deploying.
+
+When data is ready, on a machine with Python, numpy, scikit-learn, PyTorch, torchvision, and Pillow installed:
+
+```sh
+python expansion200/train_candidate.py \
+  --manifest /path/to/reviewed_images.csv \
+  --image-root /path/to/photos \
+  --legacy-checkpoint /path/to/food_model_best.pth \
+  --output-dir /path/to/separate-candidate
+```
+
+No training, download, GPU rental, or deployment is triggered by adding this script. `test_training.py` tests the head on synthetic vectors and checks data gates/cache identity; it does not evaluate a real 200-class model or exercise the PyTorch extraction in this environment.
