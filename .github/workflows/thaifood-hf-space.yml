@@ -33,6 +33,7 @@ jobs:
       - name: Install Hugging Face CLI with Trusted Publisher support
         run: python -m pip install --disable-pip-version-check 'huggingface_hub>=1.19,<2'
 
+      # Re-check Hugging Face trusted publisher after repository/ref correction
       - name: Diagnose trusted publisher identity (safe claims only)
         run: |
           python - <<'PY'
