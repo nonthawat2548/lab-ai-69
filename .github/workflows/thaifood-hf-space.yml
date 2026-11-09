@@ -56,6 +56,9 @@ jobs:
       - name: Validate code and nutrition data before publish
         run: python thaifood_space/test_assets.py
 
+      - name: Test image-to-chat multi-turn interactions
+        run: python thaifood_space/test_flow.py
+
       - name: Upload validated source and data to existing Space using OIDC
         env:
           HF_OIDC_RESOURCE: spaces/NONGAME/ThaiFood-AI-Gradio
