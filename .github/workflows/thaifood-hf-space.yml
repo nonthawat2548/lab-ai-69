@@ -34,9 +34,6 @@ jobs:
         run: python -m pip install --disable-pip-version-check 'huggingface_hub>=1.19,<2'
 
       - name: Diagnose trusted publisher identity (safe claims only)
-        env:
-          OIDC_REQUEST_URL: ${{ env.ACTIONS_ID_TOKEN_REQUEST_URL }}
-          OIDC_REQUEST_TOKEN: ${{ env.ACTIONS_ID_TOKEN_REQUEST_TOKEN }}
         run: |
           python - <<'PY'
           import os, json, base64, urllib.request
