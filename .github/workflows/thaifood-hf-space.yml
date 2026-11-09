@@ -69,6 +69,10 @@ jobs:
             --include 'requirements.txt' --include 'README.md' \
             --commit-message "Sync validated ThaiFood AI source and data from GitHub"
 
+      - name: Post-deploy live Gradio HTTP and component check
+        continue-on-error: true
+        run: python thaifood_space/test_live.py
+
       - name: Summary
         run: |
           echo "Published validated ThaiFood AI source and data to existing Space; pretrained checkpoint was preserved." >> "$GITHUB_STEP_SUMMARY"
