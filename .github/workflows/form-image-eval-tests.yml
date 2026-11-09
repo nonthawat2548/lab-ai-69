@@ -1,0 +1,21 @@
+name: Test blind Google Forms photo evaluation
+on:
+  push:
+    branches: [thaifood-space-deploy]
+    paths:
+      - 'evaluation/**'
+      - '.github/workflows/form-image-eval-tests.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Verify blind inference boundary and reference scoring
+        run: python evaluation/test_form_image_eval.py
