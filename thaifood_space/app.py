@@ -32,6 +32,7 @@ except ImportError:
     spaces = _SpacesFallback()
 
 from knowledge import MENU_METADATA, MENU_BY_TH, EVIDENCE_BY_CLASS, GENERAL_SOURCES
+from recipe_catalog import recipe_reply, find_extended_menus
 
 HERE = Path(__file__).resolve().parent
 CHECKPOINT = HERE / 'food_model_best.pth'
@@ -803,6 +804,11 @@ def answer(
     if social:
         return social
 
+    if not _is_identification_question(q):
+        sourced_reply = recipe_reply(q, menu)
+        if sourced_reply:
+            return sourced_reply
+
     explicit=find_menus(q)
     # 2. Identification is a special vision question, not a nutrition retrieval query.
     if _is_identification_question(q):
@@ -951,7 +957,7 @@ def chat_send(msg, history, state, image=None):
     if not user_msg:
         return history, '', state
 
-    explicit = find_menus(user_msg)
+    explicit = find_extended_menus(user_msg) or find_menus(user_msg)
     last_image = state.get('image_menu') or ''
     conf = state.get('score')
     is_identity = _is_identification_question(user_msg)

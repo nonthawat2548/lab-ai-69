@@ -37,3 +37,8 @@ license: other
 `nonthawat2548/lab-ai-69` สาขา `thaifood-space-deploy` ในโฟลเดอร์ `thaifood_space/`
 
 GitHub Actions workflow `.github/workflows/thaifood-hf-space.yml` ตรวจข้อมูลก่อนอัปโหลดไฟล์ที่อนุญาตเข้า Space ด้วย Hugging Face Trusted Publisher (OIDC) โดย **ไม่ลบและไม่เขียนทับโมเดล .pth**
+
+
+## Additional recipe references for typed questions
+
+The text chatbot can answer ingredient questions for 103 additional menus and provide source links for 10 more menus from NLoveCooking. Each answer links to its source and distinguishes recipe ingredients from ingredients actually present in a photograph. Recipe lookup does not expand the 50-class vision model. Energy figures and medical advice are not generated from these recipes. Thirty-seven candidate pages are excluded pending title/content review. The recipe data was extracted from available page previews; missing or partial lists should be checked against the linked original recipe.

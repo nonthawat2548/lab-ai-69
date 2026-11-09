@@ -65,6 +65,7 @@ jobs:
         run: |
           hf upload NONGAME/ThaiFood-AI-Gradio thaifood_space . --repo-type space \
             --include 'app.py' --include 'knowledge.py' --include 'nutrition_50.csv' \
+            --include 'recipe_catalog.py' --include 'recipe_catalog.json' \
             --include 'evaluation.json' --include 'pdf_sources.json' \
             --include 'requirements.txt' --include 'README.md' \
             --commit-message "Sync validated ThaiFood AI source and data from GitHub"

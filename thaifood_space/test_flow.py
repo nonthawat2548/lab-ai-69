@@ -19,6 +19,7 @@ sys.path.insert(0, str(ROOT))
 os.environ.pop("GEMINI_API_KEY", None)
 
 from knowledge import MENU_METADATA, MENU_BY_TH, EVIDENCE_BY_CLASS, GENERAL_SOURCES
+from recipe_catalog import recipe_reply, find_extended_menus
 
 source = ast.parse((ROOT / "app.py").read_text(encoding="utf-8"))
 needed_assignments = {
@@ -51,7 +52,7 @@ namespace = {
     "__name__": "thaifood_test_logic", "os": os, "re": re,
     "unicodedata": unicodedata, "MENU_METADATA": MENU_METADATA,
     "MENU_BY_TH": MENU_BY_TH, "EVIDENCE_BY_CLASS": EVIDENCE_BY_CLASS,
-    "GENERAL_SOURCES": GENERAL_SOURCES,
+    "GENERAL_SOURCES": GENERAL_SOURCES, "recipe_reply": recipe_reply, "find_extended_menus": find_extended_menus,
 }
 future = ast.ImportFrom(module="__future__", names=[ast.alias(name="annotations")], level=0)
 ast.fix_missing_locations(future)
@@ -86,6 +87,21 @@ class ThaiFoodFlowTests(unittest.TestCase):
         self.assertNotIn("à¸", history[-1]["content"])
         self.assertNotIn("�", history[-1]["content"])
         return history[-1]["content"], history, state
+
+    def test_extended_recipe_and_followup(self):
+        reply, history, state = self.ask('ขนมถ้วยมีส่วนผสมอะไรบ้าง')
+        self.assertIn('กะทิ', reply)
+        self.assertIn('nlovecooking.com', reply)
+        reply, history, state = self.ask('กี่แคล', history, state)
+        self.assertIn('ยังไม่มีค่าพลังงาน', reply)
+        self.assertIn('ขนมถ้วย', reply)
+        reply, _, _ = self.ask('สวัสดี', history, state)
+        self.assertNotIn('ส่วนผสมตามสูตร', reply)
+
+    def test_extended_recipe_does_not_claim_vision_support(self):
+        reply, _, _ = self.ask('รูปนี้เมนูอะไร', state={'menu':'ขนมถ้วย'})
+        self.assertIn('ไม่มีผลจำแนกภาพ', reply)
+        self.assertNotIn('AI คาดว่าเป็น **ขนมถ้วย**', reply)
 
     def test_identify_new_image_and_conversation(self):
         out, nutrition, state, history = namespace["auto_classify_image"]("photo-A")
@@ -208,3 +224,4 @@ class ThaiFoodFlowTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)
+

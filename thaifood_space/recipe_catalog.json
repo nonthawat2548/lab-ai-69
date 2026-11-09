@@ -1,0 +1,2544 @@
+[
+  {
+    "class_id": "ThaiFood051",
+    "menu_th": "ขนมมันสำปะหลัง",
+    "source_url": "https://nlovecooking.com/ขนมมันสำปะหลัง/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "มัันสำปะหลัง 1 กิโลกรัม",
+      "น้ำตาลทราย 600 กรัม",
+      "เกลือ 1 ช้อนโต้ะ",
+      "น้ำใบเตย 350 มิลลิลิตร",
+      "สีผสมอาหารตามใจชอบ",
+      "เนื้อมะพร้าวขูด 200 กรัม"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood052",
+    "menu_th": "ขนมถ้วย",
+    "source_url": "https://nlovecooking.com/ขนมถ้วย-2/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "แป้งข้าวเจ้า 30 กรัม",
+      "แป้งท้าวยายม่อม 10 กรัม",
+      "แป้งข้าวเหนียว 10 กรัม",
+      "น้ำตาลทราย 100 กรัม",
+      "เกลือ 1 ช้อนชา",
+      "หัวกะทิ 100 กรัม",
+      "แป้งข้าวเจ้า 10 กรัม",
+      "น้ำตาลทราย 50 กรัม"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood053",
+    "menu_th": "ขนมโค",
+    "source_url": "https://nlovecooking.com/ขนมโค/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "แป้งข้าวเหนียว 450 กรัม",
+      "แป้งข้าวเจ้า 50 กรัม",
+      "น้ำเปล่า 300 กรัม",
+      "น้ำตาลมะพร้าว หั่นเป็นเต๋า ขนาดพอดีคำ ประมาณ 20 ชิ้น",
+      "เนื้อมะพร้าวขูด 300 กรัม",
+      "เกลือป่น 1 ช้อนชา",
+      "สีผสมอาหารสีเขียว สีฟ้า สีชมพู"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood054",
+    "menu_th": "ขนมใส่ไส้",
+    "source_url": "https://nlovecooking.com/ขนมใส่ไส้/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "น้ำตาลมะพร้าว 500 กรัม",
+      "เกลือ 1 ช้อนโต้ะ",
+      "เนื้อมะพร้าวขูด 500 กรัม",
+      "แป้งข้าวเหนียว 200 กรัม",
+      "น้ำอุ่น 100 กรัม",
+      "แป้งข้าวเจ้า 400 กรัม",
+      "แป้งข้าวเหนียว 50 กรัม",
+      "แป้งมัน 50 กรัม",
+      "น้ำตาลทราย 100 กรัม",
+      "หัวกะทิ 2000 มิลลิลิตร",
+      "เกลือ 2 ช้อนชา"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood055",
+    "menu_th": "ไข่กระทะ",
+    "source_url": "https://nlovecooking.com/ไข่กระทะ/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ไข่ไก่ 2 ฟอง",
+      "หมูสับ 3 ช้อนโต้ะ",
+      "ต้นหอม ซอบ 2 ช้อนโต้ะ",
+      "กระเทียม บด 1 ช้อนชา",
+      "น้ำมันพืช 1 ช้อนชา",
+      "ซอสถั่วเหลือง 1 ช้อนชา",
+      "หมูยอ หั่นเป็นชิ้น 4-5 ชิ้น",
+      "กุนเชียง หั่นเป็นชิ้น 4-5 ชิ้น",
+      "ขนมปังฝรั่งเศสเล็ก 1 ชิ้น",
+      "เนย 2 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood056",
+    "menu_th": "เส้นหมี่ผัดกระเฉด",
+    "source_url": "https://nlovecooking.com/เส้นหมี่ผัดกระเฉด/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เส้นหมี่ 1 ถ้วย นำไปแช่น้ำให้เส้นนุ่มก่อน",
+      "กุ้ง 4 ตัว",
+      "พริกสดนำมาบด 1 ช้อนโต้ะ",
+      "กระเทียมสดบด 1 ช้อนโต้ะ",
+      "【2†ผักกระเฉด†th.wikipedia.org】 หั้นเป็นท่อนพอคำ 1/2 ถ้วย",
+      "ซอสน้ำมันหอย 1 ช้อนโต้ะ",
+      "ซอสถั่วเหลือง 1 ช้อนโต้ะ",
+      "น้ำตาลทราย 1 ช้อนชา",
+      "น้ำซุป 5 ช้อนโต้ะ",
+      "น้ำมันพืช สำหรับผัด 2 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood057",
+    "menu_th": "ปลาดุกผัดพริกหยวก",
+    "source_url": "https://nlovecooking.com/ปลาดุกผักพริกหยวก/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ปลาดุก หั่นเป็นชิ้น 1 ถ้วย",
+      "พริกแกงเผ็ด 2 ช้อนโต้ะ",
+      "พริกหยวก หั่น 3 ช้อนโต้ะ",
+      "ใบมะกรูด หั่นฝอย 1 ช้อนโต้ะ",
+      "ใบโหระพา 2 ช้อนโต้ะ",
+      "หัวกะทิ 2 ถ้วย",
+      "น้ำเปล่า ครึ่ง ถ้วย",
+      "กระชาย หั่นเป็นฝอย ครึ่งถ้วย",
+      "น้ำตาล 1 ช้อนโต้ะ",
+      "น้ำปลา 2 ช้อนโต้ะ",
+      "น้ำมันพืช สำรับผัด 2 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood058",
+    "menu_th": "กะปิหลน",
+    "source_url": "https://nlovecooking.com/กะปิหลน/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "หอมแดง 5 หัว",
+      "กระเทียม 5 กลีบ",
+      "น้ำปลา 2 ช้อนโต้ะ",
+      "น้ำตาล 3 ช้อนโต้ะ",
+      "พริกสด 5 เม็ด",
+      "กะปิ 3 ช้อนโต้ะ",
+      "หมูสับ 3 ช้อนโต้ะ",
+      "ใบมะกรูด ซอยหยาบๆ 1 ช้อนโต้ะ",
+      "ปลาดุกย่าง 1 ตัว แกะเอาแต่เนื้อ",
+      "หัวกะทิ 1 ถ้วย",
+      "หางกะทิ 2 ถ้วย",
+      "พริกแห้ง แข่น้ำให้พริกนุ่ม ประมาณ 3-5 เม็ด",
+      "ตะไคร้ หั่นให้เป็นฝอย 3 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood059",
+    "menu_th": "น้ำพริกปลาสลิด",
+    "source_url": "https://nlovecooking.com/น้ำพริกปลาสลิด/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เนื้อ【2†ปลาสลิด†th.wikipedia.org】ตากแห้ง 1 ตัว",
+      "พริกขี้หนูสวน 10 เม็ด",
+      "กระเทียม 6-8 กลีบ",
+      "กะปิ 1 ช้อนโต้ะ",
+      "น้ำมะขามเปียก 1 ช้อนโต้ะ",
+      "น้ำปลา 1 ช้อนโต้ะ",
+      "น้ำตาลปี๊บ 1 ช้อนโต้ะ",
+      "ผักสดสำหรับทานกับน้ำพริก เช่น แตงกวา มะเขือ ถั่วฝักยาว ถั่วพลู เป็นต้น สำหรับผักสามารถเลือกได้ตามใจชอบ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood060",
+    "menu_th": "ยำไข่ดาว",
+    "source_url": "https://nlovecooking.com/ยำไข่ดาว/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ไข่ไก่ 3 ฟอง",
+      "พริกสดซอย 1 ช้อนโต้ะ",
+      "หอมหัวใหญ่ซอย 2 ช้อนโต้ะ",
+      "แครอทซอย 2 ช้อนโต้ะ",
+      "มะเขือเทศหั่น 1 ลูก",
+      "ต้นหอมซอยท่อนยาว 1 ช้อนโต้ะ",
+      "น้ำมะนาว 2 ช้อนโต้ะ",
+      "น้ำตาล 2 ช้อนโต้ะ",
+      "น่้าปลา 2 ช้อนโต้ะ",
+      "น้ำมันสำหรับทอดไข่"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood061",
+    "menu_th": "ต้มแซ่บหมู",
+    "source_url": "https://nlovecooking.com/ต้มแซ่บหมู/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เนื้อหมูและเครื่องในหมู 1 ถ้วย",
+      "ข่าหั่นบางๆ 3 ชิ้น",
+      "มะเขือหั่น  1 หัว",
+      "ตะไคร้ หั้น 1 ต้น",
+      "ใบมะกรูด 2 ใบ",
+      "น้ำมะนาว 2 ช้อนโต้ะ",
+      "น้ำปลา 1 ช้อนโต้ะ",
+      "ผงรสดี 1 ช้อนชา",
+      "พริก 1 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood062",
+    "menu_th": "ปลาหมึกผัดไข่เค็ม",
+    "source_url": "https://nlovecooking.com/ปลาหมึกผัดไข่เค็ม/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ปลาหมึก หั่นเป็นชิ้นแว่นๆ 1 ตัว",
+      "ไข่เค็ม 1 ฟอง",
+      "หอมใหญ่ ซอยหนาๆ 2 ช้อนโต้ะ",
+      "พริกสด หั่นเฉียงๆ 1 ช้อนโต้ะ",
+      "ต้นหอม ซอยหยาบๆ 1 ต้น",
+      "กระเทียมสดบด 1 ช้อนโต้ะ",
+      "พริกหยวก หั่นเฉียงๆ 2 ช้อนโต้ะ",
+      "น้ำมันพืชสำหรับผัด 2 ช้อนโต้ะ",
+      "น้ำตาลปี๊บ 1 ช้อนโต้ะ",
+      "น้ำปลา 1 ช้อนโต้ะ",
+      "ซอสน้ำมันหอย 1 ช้อนโต้ะ",
+      "ซอสถั่วเหลือง 1 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood063",
+    "menu_th": "แกงป่าปลาช่อน",
+    "source_url": "https://nlovecooking.com/แกงป่าปลาช่อน/",
+    "status": "source_link_only",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood064",
+    "menu_th": "แกงไตปลา",
+    "source_url": "https://nlovecooking.com/แกงไตปลา/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ไตปลา ครึ่ง ถ้วย",
+      "กุ้งแช่สด 1 ถ้วย",
+      "ปลาดุกย่าง ( เอาแต่เนื้อ ) 1 ถ้วย",
+      "ถั่วฝักยาว ( หั่นท่อนๆ ประมาณ 1 นิ้ว ) 1 ถ้วย",
+      "หน่อไม้ปีบ ( หั่นเป็นชิ้นพอคำ ) 1 ถ้วย",
+      "ส้มแขก 3 ชิ้น",
+      "น้ำมะขามเปียก 2 ช้อนโต้ะ",
+      "ใบมะกรูดหั่นฝอย 1 ช้อนโต้ะ",
+      "ฟักทอง ( หั่นชิ้นพอคำ ) ครึ่งถ้วย",
+      "น้ำ 1 หม้อ",
+      "พริกแห้ง 1 ถ้วย",
+      "พริกสด 10 เม็ด",
+      "ข่า 1 หัว",
+      "ตะไคร้ 2-3 ต้น",
+      "ผิวมะกรูด 1 ช้อนโต๊ะ",
+      "พริกไทยสด 1 ช้อนโต้ะ",
+      "กระเทียมบด 2 ช้อนโต้ะ",
+      "หอมแดงซอย 2 ช้อนโต้ะ",
+      "ขมิ้นซอย 1 ช้อนโต๊ะ",
+      "กะปิ 2 ช้อนโต๊ะ",
+      "เกลือ 1 ช้อนชา"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood065",
+    "menu_th": "น้ำพริกอ่องปลากระป๋อง",
+    "source_url": "https://nlovecooking.com/น้ำพริกอ่องปลากระป๋อง/",
+    "status": "source_link_only",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood066",
+    "menu_th": "ยำหอยนางรม",
+    "source_url": "https://nlovecooking.com/ยำหอยนางรม/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "หอยนางรม 1 จาน (ปริมาณตามต้องการ)",
+      "น้ำพริกเผา 1 ช้อนโต้ะ",
+      "น้ำปลา 1 ช้อนโต้ะ",
+      "น้ำมะขามเปียก 1 ช้อนโต้ะ",
+      "น้ำมะนาว 1 ช้อนโต้ะ",
+      "น้ำตาลปีี๊บ 1 ช้อนชา",
+      "ตะไคร้ 1 ต้น นำมาซอยเล็กๆ",
+      "หอมแดง 2 หัว นำมาซอยเล็กๆ",
+      "พริกขี้หนูสวน 3 เม็ด นำมาซอย",
+      "ข่านำมาซอยเป็นเส้นเล็กๆ 1 ช้อนโต้ะ",
+      "ขิงนำมาซอยเป็นเส้นเล็กๆ 1 ช้อนโต้ะ",
+      "กระเทียม 1 กลีบ บดให้ละเอียด",
+      "กระเทียม 2 กลีบ นำมาฝานเป็นแผ่นๆ",
+      "พริกแห้งทอด สำหรับโรยหน้า ประมาณ 3-4 เม็ด",
+      "ผักสำหรับโรยหน้า เช่น ใบสาระแหน่ ใบอ่อนชะอม เป็นต้น"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood067",
+    "menu_th": "ขาหมูต้มผักกาดดอง",
+    "source_url": "https://nlovecooking.com/ขาหมูต้มผักกาดดอง/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ขาหมู 500 กรัม นำมาหั่นเป็นชิ้นขนาดพอดีคำ",
+      "กระดูกหมูส่วนเล้ง 1 กิโลกรัม",
+      "น้ำเปล่า 1 หม้อ",
+      "เห็ดหอมแห้ง 2 ดอก",
+      "ผักกาดดองกระป๋อง 1 กระป๋อง",
+      "น้ำตาลกรวด 1/2 ช้อนโต้ะ",
+      "เกลือ 1 ช้อนชา",
+      "พริกไทยป่น 1 ช้อนชา",
+      "รากผักชี 2 ราก",
+      "ผักชีสำหรับโรยหน้า"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood068",
+    "menu_th": "น้ำพริกปูม้า",
+    "source_url": "https://nlovecooking.com/น้ำพริกปูม้า/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood069",
+    "menu_th": "ผัดกระเฉดหมูกรอบ",
+    "source_url": "https://nlovecooking.com/ผัดกระเฉดหมูกรอบ/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood070",
+    "menu_th": "ต้มยำปลาทู",
+    "source_url": "https://nlovecooking.com/ต้มยำปลาทู/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ปลาทู 2 ตัว",
+      "พริกสด บด 1 ชอนโต้ะ",
+      "น้ำมะขามเปียก 1 ช้อนโต้ะ",
+      "น้ำมะนาว 2 ช้อนโต้ะ",
+      "มะเขือเทศ หั่นครึ่ง 3 ผล",
+      "หอมแดง หั่น 4 ซีก 3 หัว",
+      "ตะไคร้ ซอย 1 ต้น",
+      "เห็ดฟาง หั่น 1 ถ้วย",
+      "ข่า ซอย 1 หัว",
+      "ใบมะกรูด 4 – 5 ใบ",
+      "ผักชีฝรั่ง ซอยหยาบๆ 2 ช้อนโต้ะ",
+      "น้ำซุปกระดุกหมู 1 หม้อ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood071",
+    "menu_th": "แกงส้มปลาช่อนผักรวม",
+    "source_url": "https://nlovecooking.com/แกงส้มปลาช่อนผักรวม/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ปลาช่อน 1 ตัว (หั่นเป็นท่อนๆ แบ่งเป็น 2 ส่วน)",
+      "น้ำพริกแกงส้ม 1 ช้อนโต้ะ ( พริกชี้ฟ้าแห้ง พริกขี้หนูแห้ง พริกจินดาแดง หอมแดง กระเทียม กระชาย เกลือ และ กะปิ)",
+      "ผักกระเฉด 1 กำมือ หั่นเป็นท่อนๆ",
+      "หัวไชเท้า 2 ชิ้น",
+      "ดอกแค 1 กำมืิิอ",
+      "ฟักทอง 1 กำมือ (หั่นเป็นชื้น)",
+      "มะละกอดิบ 1 กำมือ (หั่นเป็นชิ้น)",
+      "ถั่วฝักยาว 2 เส้น (หั่นพอคำ)",
+      "น้ำเปล่า 2 ถ้วย",
+      "น้ำตาลปี๊บ 1 ช้อนชา",
+      "น้ำปลา 2 ช้อนโต๊ะ",
+      "น้ำมะขามเปียก 3 ช้อนโต๊ะ",
+      "ผักกาดขาว หั่นเป็นชิ้นพอคำ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood072",
+    "menu_th": "ขนมปังหน้าหมู",
+    "source_url": "https://nlovecooking.com/ขนมปังหน้าหมู/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "หมูสับ 1 ถ้วย",
+      "ไข่ไก่ 3 ฟอง",
+      "น้ำปลา 1ช้อนโต้ะ",
+      "รากผักชี บดละเอียด 1 ช้อนโต้ะ",
+      "ผักชีหั่น 1 ช้อนโต้ะ",
+      "พริกไทย 1 ช้อนชา",
+      "ซอสถ้วยเหลือง 1 ช้อนโต้ะ",
+      "ขนมปัง ฟาร์มเฮ้าส์ 1 แพ็ค"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood073",
+    "menu_th": "ยำไส้กรอก",
+    "source_url": "https://nlovecooking.com/ยำไส้กรอก/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood074",
+    "menu_th": "ทอดมันกุ้ง",
+    "source_url": "https://nlovecooking.com/ทอดมันกุ้ง/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เนื้อกุ้งบด 500 กรัม",
+      "น้ำมันพืช สำหรับทอด 2 ถ้วยตวง",
+      "รากผักชี บด 1 ช้อนโต้ะ",
+      "พริกไทยป่น 1 ช้อนโต้ะ",
+      "กระเทียม บด 1 ช้อนโต้ะ",
+      "มันหมู บด 100 กรัม",
+      "เกลือ 1 ช้อนชา",
+      "น้ำตาลทราย 2 ช้อนชา",
+      "ไข่ขาว 1 ฟอง"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood075",
+    "menu_th": "หมูปิ้ง",
+    "source_url": "https://nlovecooking.com/หมูปิ้ง/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood076",
+    "menu_th": "ผัดเปรี้ยวหวานไก่",
+    "source_url": "https://nlovecooking.com/ผัดเปรี้ยวหวานไก่/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood077",
+    "menu_th": "แกงคั่วเทโพหมู",
+    "source_url": "https://nlovecooking.com/แกงคั่วหมูเทโพ/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood078",
+    "menu_th": "ผัดหมี่โคราช",
+    "source_url": "https://nlovecooking.com/ผัดหมี่โคราช/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood079",
+    "menu_th": "ซุปหน่อไม้",
+    "source_url": "https://nlovecooking.com/ซุปหน่อไม้/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood080",
+    "menu_th": "ข้าวผัดอเมริกัน",
+    "source_url": "https://nlovecooking.com/ข้าวผัดอเมริกัน/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ข้าวหอมมะลิหุงสุก 1 จาน",
+      "หอมหัวใหญ่ 2 ช้อนโต้ะ นำมาหั่นเต๋า",
+      "แครอท 2 ช้อนโต้ะ นำมาหั่นเต๋า",
+      "ไส้กรอก 2 แท่ง",
+      "ไข่ไก่ 1 ฟอง",
+      "น่องไก่ 2 ชิ้น",
+      "ลูกเกต 1 ช้อนโต้ะ",
+      "ถั่วลันเตา 1 ช้อนโต้ะ",
+      "ซอสมะเขือเทศ 1 ช้อนโต้ะ",
+      "ซอสปรุงรส 1 ช้อนโต้ะ",
+      "ซอสน้ำมันหอย 1 ช้อนโต้ะ",
+      "น้ำตาลทราย 1 ช้อนชา",
+      "น้ำมันพืช 1 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood081",
+    "menu_th": "ต้มยำปลาช่อนใบมะขามอ่อน",
+    "source_url": "https://nlovecooking.com/ต้มยำปลาช่อนใบมะขาม/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ปลาช่อนหั่นเป็นชิ้นพอคำ 1 ถ้วย",
+      "เครื่องต้มยำ (ข่า ตะไคร้ ใบมะกรูด)",
+      "หอมแดงบุ 3 หัว",
+      "เห็ดฟางหั้นพอคำ 1 ถ้วย",
+      "มะเขือเทศหั่นพอคำ 1 ลูก",
+      "พริกทอด 3 เม็ด",
+      "น้ำปลา 3 ช้อนโต้ะ",
+      "น้ำมะนาว 3 ช้อนโต้ะ",
+      "น้ำมะขามเปียก 1 ช้อนโต้ะ",
+      "ผักชีฝรั่งหั่นพอคำ 2 ช้อนโต้ะ",
+      "ใบมะขามอ่อน 2 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood082",
+    "menu_th": "ข้าวผัดแกงเขียวหวาน",
+    "source_url": "https://nlovecooking.com/ข้าวผัดแกงเขียวหวาน/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ข้าวสวย 1 ถ้วย",
+      "ไก่หั่น 1 ถ้วย",
+      "กะทิ ครึ่งถ้วย",
+      "พริกแกงเขียวหวาน 1 ช้อนโต้ะ",
+      "น้ำตาล 1 ช้อนโต้ะ",
+      "น้ำปลา 1 ช้อนโต้ะ",
+      "พริกหั่น 2 ช้อนโต้ะ",
+      "ใบโหระพา 3 ใบ",
+      "น้ำมัน 2 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood083",
+    "menu_th": "แกงคั่วฟักไก่",
+    "source_url": "https://nlovecooking.com/แกงคั่วฟักไก่/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ฟักเขียว 1 ถ้วย หั่นเป็นชิ้นขนาดพอดีคำ",
+      "เนื้อไก่ 1 ถ้วย หั่นเป็นชิ้นพอดีคำ",
+      "พริกชี้ฟ้า 5 เม็ด หั่นเฉียงยาวๆ",
+      "หัวกะทิ 1 ถ้วย",
+      "หางกะทิ 1 ถ้วย",
+      "พริกแกงเผ็ด 1 ช้อนโต้ะ",
+      "น้ำตาลปี๊บ 2 ช้อนโต้ะ",
+      "น้ำปลา 2 ช้อนโต้ะ",
+      "น้ำมะขามเปี๊ยก 2 ช้อนโต้ะ",
+      "ใบโหระพา 1 กำมือ",
+      "ใบมะกรูด 3 ใบ นำมาหั่นฝอย"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood084",
+    "menu_th": "ปลาจะละเม็ดทอดราดซอส",
+    "source_url": "https://nlovecooking.com/ปลาจะละเม็ดทอดราดซอส/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ปลาจะละเม็ด 1 ตัว",
+      "หอมแดงเจียว 2 ช้อนโต้ะ",
+      "น้ำเปล่า 2 ช้อนโต๊ะ",
+      "พริกแห้งทอด หั่นเป็นฝอย 1 ช้อนโต้ะ",
+      "ซอสหอยนางรม 1 ช้อนโต้ะ",
+      "น้ำตาล 1 ช้อนโต๊ะ",
+      "ซอสมะเขือเทศ 2 ช้อนโต๊ะ",
+      "น้ำมันพืช 2 ถ้วยตวง"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood085",
+    "menu_th": "ผัดกระเฉดไก่",
+    "source_url": "https://nlovecooking.com/ผัดกระเฉดไก่/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เนื้อไก่ หั่นเป็นชิ้นพอคำ 1 ถ้วยตวง",
+      "ผักกระเฉด หั่นเป็นท่อนพอคำ 2 ถ้วยตวง",
+      "กระเทียมบด 1 ช้อนโต้ะ",
+      "พริกสดบด 1 ช้อนโต้ะ",
+      "เต้าเจี้ยว 1 ช้อนขา",
+      "น้ำตาล 1 ช้อนชา",
+      "ซอสถั่วเหลือง 1 ช้อนโต๊ะ",
+      "ซอสหอยนางรม 1 ช้อนโต๊ะ",
+      "น้ำมันพืช สำหรับผัด 2 ช้อนโต๊ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood086",
+    "menu_th": "ผัดเผ็ดหมู",
+    "source_url": "https://nlovecooking.com/ผัดเผ็ดหมู/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เนื้อหมูสันคอ หั่นชิ้น 1 ถ้วยตวง",
+      "พริกแกงเผ็ด 1 ช้อนโต้ะ",
+      "กระชาย ซอย 2 ช้อนโต้ะ",
+      "ใบมะกรูด ซอย 2 ช้อนโต้ะ",
+      "ใบโหระพา 5-6 ใบ",
+      "กะทิ 2 ช้อนโต้ะ",
+      "พริกสด หั่น 2 ช้อนโต้ะ",
+      "พริกไทยสด 2 ช่อ",
+      "น้ำปลา 2 ช้อนโต๊ะ",
+      "เกลือ 1 หยืบมือ",
+      "น้ำตาล 2 ช้อนชา",
+      "น้ำมันพืช สำหรับผัด 2 ช้อนโต๊ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood087",
+    "menu_th": "แกงเผ็ดเป็ดย่าง",
+    "source_url": "https://nlovecooking.com/แกงเผ็ดเป็ดย่าง/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "Mark Wiens (June 20, 2014). “Authentic Thai Red Curry Paste Recipe (พริกแกงเผ็ด)”. Eating Thaifood. สืบค้นเมื่อ 20 May 2015.",
+      "surfin’ chef. “Scrumptious Thai Coconut Red Curry”. Food.com. สืบค้นเมื่อ 20 May 2015.",
+      "【25†อาหารภาคกลาง】",
+      "【26†อาหารไทย】",
+      "【27†เมนูกะทิ】",
+      "【28†เมนูเป็ด】",
+      "【29†เมนูแกง】",
+      "【51†Home】",
+      "【3†อาหารไทย】",
+      "【22†ขนมไทย】",
+      "【21†น้ำพริก】",
+      "【52†อาหารไทย 4 ภาค】",
+      "【53†อาหารภาคกลาง】",
+      "【54†อาหารอีสาน】",
+      "【55†อาหารเหนือ】",
+      "【56†อาหารใต้】",
+      "【20†น้ำจิ้ม】",
+      "【57†อาหารจานเดียว】",
+      "【58†เมนูอาหาร】",
+      "【8†เมนูผัด】",
+      "【9†เมนูแกง】",
+      "【10†เมนูทอด】",
+      "【12†เมนูนึ่ง】",
+      "【11†เมนูปิ้งย่าง】",
+      "【13†เมนูยำ】"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood088",
+    "menu_th": "กะเพราไก่",
+    "source_url": "https://nlovecooking.com/ผัดกระเพราไก่/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood089",
+    "menu_th": "กุ้งผัดพริกนมสด",
+    "source_url": "https://nlovecooking.com/กุ้งผัดพริกนมสด/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "พริกแกงเผ็ด 3 ช้อนโต้ะ",
+      "กุ้งสด 1 ถ้วย (แกะเปลือกออก)",
+      "นมค้นจืด 8 ช้อนโต้ะ",
+      "ซอสถั่วเหลือง 1 ช้อนโต้ะ",
+      "น้ำตาล 1 ช้อนโต๊ะ",
+      "น้ำปลา 1 ช้อนโต๊ะ",
+      "พริกสดหั่น 2 ช้อนโต้ะ",
+      "พริกไทยป่น 1 ช้อนชา",
+      "ใบมะกรูด ซอย 1 ช้อนโต้ะ",
+      "ใบโหระพา ครึ่งถ้วยตวง",
+      "น้ำมันพืช 3 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood090",
+    "menu_th": "ปลาหมึกชุบแป้งทอด",
+    "source_url": "https://nlovecooking.com/ปลาหมึกชุบแป้งทอด/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ปลาหมึก หั่นเป็นชิ้น 1 ถ้วยตวง",
+      "แป้งทอดกรอบ 1 ถ้วยตวง",
+      "น้ำเปล่า ครึ่งถ้วยตวง",
+      "ไข่ไก่ 1 ฟอง",
+      "กระเทียม บด 1 ช้อนโต๊ะ",
+      "ซอสถั่วเหลือง 1 ช้อนโต๊ะ",
+      "พริกไทยป่น 1 ช้อนชา",
+      "น้ำมันพืช สำหรับทอด 2 ถ้วยตวง"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood091",
+    "menu_th": "ยำคะน้ากุ้งสด",
+    "source_url": "https://nlovecooking.com/ยำคะน้ากุ้งสด/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood092",
+    "menu_th": "แกงเลียงกุ้งสด",
+    "source_url": "https://nlovecooking.com/แกงเลียงกุ้งสด/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "กุ้งแม่น้ำปลอกเปลือกกุ้ง 1 ถ้วย",
+      "ข้าวโพดอ่อนหั่น ครึ่งถ้วย",
+      "บวบหั่น ครึ่งถ้วย",
+      "เห็ดฟางผ่าครึ่ง ครึ่งถ้วย",
+      "ฟักทองหั่นเป็นชิ้นเล็กๆ ครึ่งถ้วย",
+      "ใบแมงลัก 2 ช้อนโต้ะ",
+      "น้ำเปล่า 1 หม้อ ประมาณ 2-3 ชาม",
+      "น้ำปลา 2 ช้อนโต๊ะ",
+      "พริกไทยเม็ดแห้ง 1 ช้อนชา",
+      "หอมแดง 4 หัว",
+      "กะปิ 1 ช้อนโต๊ะ",
+      "กุ้งแห้ง 2 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood093",
+    "menu_th": "ยำตำลึงชุบแป้งทอด",
+    "source_url": "https://nlovecooking.com/ยอดตำลึงชุปแป้งทอด/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood094",
+    "menu_th": "แกงหน่อไม้ใบย่านาง",
+    "source_url": "https://nlovecooking.com/แกงหน่อไม้ใบย่างนาง/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood095",
+    "menu_th": "ปลาหมึกผัดกระเทียมพริกไทย",
+    "source_url": "https://nlovecooking.com/ปลาหมึกผัดกระเทียมพริก/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ปลาหมึกหั่น 1 ถ้วย",
+      "รากผักชีบด 1 ช้อนโต้ะ",
+      "กระเทียมบด 1 ช้อนโต้ะ",
+      "พริกไทย 1 ช้อนชา",
+      "น้ำมันหอย 1 ช้อนโต้ะ",
+      "ซีอิ้วขาว 1 ช้อนโต้ะ",
+      "น้ำตาล 1 ช้อนชา",
+      "น้ำมัน 1 ช้อนชา",
+      "ผักชีซอย 1 ช้อนชา"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood096",
+    "menu_th": "ผัดพริกแกงไก่",
+    "source_url": "https://nlovecooking.com/ผัดพริกแกงไก่/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ไก่หั่นเป็นชิ้น 1 ถ้วย",
+      "พริกแกงเผ็ด  1 ช้อนโต๊ะ",
+      "พริกบด 1 ช้อนชา",
+      "พริกชี้ฟ้า 2 เม็ด หั่นเฉียง",
+      "ใบโหระพา 1 หยิบมือ",
+      "ใบมะกรูดหั่นฝอย 1 ช้อนโต้ะ",
+      "กระเทียมบด 1 ช้อนชา",
+      "ซีอิ๊วขาว 1 ช้อนโต๊ะ",
+      "ถั่วฝักยาวหั่นเป็นชิ้น ครึ่งถ้วย",
+      "น้ำตาล 1 ช้อนโต้ะ",
+      "น้ำมันพืช 2 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood097",
+    "menu_th": "น้ำพริกสุโขทัย",
+    "source_url": "https://nlovecooking.com/น้ำพริกสุโขทัย/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "หมูสับ 10 ช้อนโต้ะ",
+      "หมูสาม ชั้นหั่น 10 ช้อนโต้ะ",
+      "พริกป่น 1 ถ้วยตวง",
+      "กระเทียม บด 1 ช้อนโต้ะ",
+      "น้ำมะขามเปียก 1 ช้อนโต้ะ",
+      "น้ำตาลปี๊บ 1 ช้อนโต้ะ",
+      "เกลือป่น 1 ช้อนชา",
+      "น้ำเปล่า 1 ถ้วยตวง"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood098",
+    "menu_th": "น้ำพริกกบย่าง",
+    "source_url": "https://nlovecooking.com/น้ำพริกกบย่าง/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood099",
+    "menu_th": "น้ำพริกขี้กา",
+    "source_url": "https://nlovecooking.com/น้ำพริกขี้กา/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "พริกขี้หนูสวน 10 เม็ด",
+      "หอมหัวแดง 1 หยิบมือ",
+      "มะเขือพวง 1 หยิบมือ",
+      "มะเขือเทศ 4 ผล",
+      "กระเทียม 1 หยิบมือ",
+      "น้ำปลา 2 ช้อนโต๊ะ",
+      "น้ำมะนาว 5 ช้อนโต๊ะ",
+      "น้ำตาลปี๊บ 1 ช้อนโต๊ะ",
+      "น้ำเปล่า 4 ช้อนโต้ะ",
+      "ปลาทู 1 ตัว"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood100",
+    "menu_th": "กุ้งผัดไข่",
+    "source_url": "https://nlovecooking.com/กุ้งผัดไข่/",
+    "status": "source_link_only",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood101",
+    "menu_th": "กุ้งผัดไข่เค็ม",
+    "source_url": "https://nlovecooking.com/กุ้งผัดไข่เค็ม/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "กุ้งแช่บ๊วย ขนาดกลางแกะเปลือก ( เหลือหางไว้ ) 200 กรัม ผ่าหลังชักเส้นดำออก",
+      "ไข่แดงเค็ม สับละเอียด 3 ฟอง",
+      "ไข่ไก่ ( เฉพาะไข่ขาว ) 1 ฟอง",
+      "แป้งมัน 1 ช้อนโต๊ะ",
+      "น้ำมันหอย 2 ช้อนชา",
+      "น้ำตาลทราย 1 ช้อนชา",
+      "เกลือป่น 1/4 ช้อนชา",
+      "พริกไทยป่น 1/4 ช้อนชา",
+      "น้ำมันพืชสำหรับทอด",
+      "ต้นหอม ซอยเป็นเส้นสำหรับโรยหน้า"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood102",
+    "menu_th": "มะระผัดไข่เค็ม",
+    "source_url": "https://nlovecooking.com/มะระผัดไข่เค็ม/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ไข่เค็ม 1 ฟอง นำมาหั่นเป็นชิ้นเล็กๆ",
+      "ไข่ไก่ 1 ฟอง",
+      "มะระ 1 จาน โดยนำมาหั่นเป็นชิ้นบาง",
+      "กระเทียม 2 กลีบ นำมาสับให้ละเอียด",
+      "ซอสถั่วเหลือง 1 ช้อนโต้ะ",
+      "ซอสน้ำมันหอย 1 ช้อนโต๊ะ",
+      "น้ำตาลทราย 1 ช้อนโต้ะ",
+      "เกลือป่น",
+      "น้ำมันพืช สำหรับผัด 1 ช้อนโต๊ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood103",
+    "menu_th": "ปลากระพงนึ่งมะนาว",
+    "source_url": "https://nlovecooking.com/ปลากระพงนึ่งมะนาว/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ปลากะพงขาว 1 ตัว",
+      "พริกขี้หนูบด 1 ช้อนโต้ะ",
+      "กระเทียมบด 1 ช้อนโต้ะ",
+      "ต้นหอมหั่น 2 ช้อนโต้ะ",
+      "น้ำมะนาว 2 ช้อนโต๊ะ",
+      "ซีอิ๊วขาว 2 ช้อนชา",
+      "น้ำซุป  5 ช้อนโต้ะ",
+      "น้ำตาล 1 ช้อนโต้ะ",
+      "เกลือ นิดหน่อย"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood104",
+    "menu_th": "ปลาเนื้ออ่อนราดพริก",
+    "source_url": "https://nlovecooking.com/ปลาเนื้ออ่อนราดพริก/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ปลาเนื้ออ่อน 3 ตัว",
+      "พริกบด 1 ช้อนโต๊ะ",
+      "กระเทียมบด 1 ช้อนโต๊ะ",
+      "น้ำมะขามเปียก 1 ช้อนโต้ะ",
+      "น้ำตาล 2 ช้อนโต้ะ",
+      "น้ำปลา 1 ช้อนโต้ะ",
+      "ใบผักชีหั่น 1 ช้อนโต้ะ",
+      "น้ำมัน 2 ถ้วย"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood105",
+    "menu_th": "ไก่กะปิ",
+    "source_url": "https://nlovecooking.com/ผัดไก่กะปิ/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เนื้อสะโพกไก่ 1 จาน นำมาหั่นเป็นชิ้นพอคำ",
+      "【1†กะปิ†th.wikipedia.org】 1 ช้อนโต้ะ",
+      "กระเทียม 2 กลีบ นำมาบดให้ละเอียด",
+      "พริกขี้หนูสวน 4 เม็ด นำมาบดให้ละเอียด",
+      "ใบมะกรูด 2 ใบ นำมาซอยเล็กๆ",
+      "ใบโหระพา 1 หยิบมือ",
+      "น้ำปลา 1 ช้อนโต้ะ",
+      "น้ำตาลปี๊บ 1 ช้อนโต้ะ",
+      "น้ำมันพืช สำหรับผัดประมาณ 3 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood106",
+    "menu_th": "สังขยาใบเตย",
+    "source_url": "https://nlovecooking.com/สังขยาใบเตย/",
+    "status": "source_link_only",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood107",
+    "menu_th": "ปลาบึกผัดฉ่า",
+    "source_url": "https://nlovecooking.com/ปลาบึกผัดฉ่า/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เนื้อปลาบึก 1 ชาม",
+      "น้ำตาล 1 ช้อนโต้ะ",
+      "น้ำปลา 1 ช้อนโต้ะ",
+      "น้ำมันหอย 1 ช้อนโต้ะ",
+      "ใบมะกรูดหั่น 2 ช้อนโต้ะ",
+      "กระชายหั่นฝอย 2 ช้อนโต้ะ",
+      "ใบโหระพา 3 ช้อนโต้ะ",
+      "กระเทียมบด 1 ช้อนชา",
+      "พริกบด 1 ช้อนโต้ะ",
+      "พริกไทยอ่อน 2 ช้อนโต้ะ",
+      "น้ำมันพืช 2 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood108",
+    "menu_th": "ผัดเผ็ดปลาดุก",
+    "source_url": "https://nlovecooking.com/ผัดเผ็ดปลาดุก/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ปลาดุกสด หั่นชิ้น 1 ถ้วย",
+      "กระเทียม บด 2 ช้อนโต๊ะ",
+      "น้ำตาล 1 ช้อนโต๊ะ",
+      "น้ำมันหอย 1 ช้อนโต้ะ",
+      "พริกขี้หนูสวน บด 2 ช้อนโต๊ะ",
+      "กระชาย หั่นฝอย 2 ช้อนโต้ะ",
+      "ใบมะกรูด หั่น 2 ช้อนโต้ะ",
+      "ใบโหระพา 3 ช้อนโต้ะ",
+      "น้ำปลา 1 ช้อนโต๊ะ",
+      "น้ำมันพืช สำหรับผัด 2 ช้อนโต๊ะ",
+      "พริกไทยอ่อน 1 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood109",
+    "menu_th": "น้ำพริกมะขามเปียก",
+    "source_url": "https://nlovecooking.com/น้ำพริกมะขามเปียก/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood110",
+    "menu_th": "ยำปลาดุกฟู",
+    "source_url": "https://nlovecooking.com/ยำปลาดุกฟู/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ปลาดุก 1 ต้ว",
+      "น้ำปลา 2 ช้อนโต๊ะ",
+      "น้ำมะนาว 3 ช้อนโต๊ะ",
+      "น้ำตาล 1.5 ช้อนโต๊ะ",
+      "พริกขี้บด 5 เม็ด",
+      "หอมแดงซอย 3 ช้อนโต้ะ",
+      "มะม่วงดิบฝานเป็นฝอย 1 ลูก",
+      "เม็ดมะม่วงหิมพานต์ 3 ช้อนโต้ะ",
+      "หั่นผักชี",
+      "น้ำมันพืช 2 ถ้วยตวง"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood111",
+    "menu_th": "ปลาช่อนลุยสวน",
+    "source_url": "https://nlovecooking.com/ปลาช่อนลุยสวน/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ปลาช่อน 1 ตัว",
+      "พริกขี้หนูบด 1 ช้อนโต๊ะ",
+      "น้ำมะนาว 2 ช้อนโต๊ะ",
+      "น้ำตาล 2 ช้อนโต๊ะ",
+      "น้ำปลา 3 ช้อนโต๊ะ",
+      "ผักชีฝรั่งหั่นฝอย 2 ช้อนโต้ะ",
+      "ผักชีหั่นฝอย 2 ช้อนโต้ะ",
+      "ใบสาระแหน่ 2 ช้อนโต้ะ",
+      "ตะไคร้หั่น 2 ช้อนโต๊ะ",
+      "หอมแดงซอย 4 ช้อนโต๊ะ",
+      "มะนาวหั่นเป็นสี่เหลี่ยมลูกเต๋าพร้อมเปลือก 3 ช้อนโต๊ะ",
+      "น้ำมันพืช 4 ถ้วยตวง"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood112",
+    "menu_th": "เสือร้องไห้",
+    "source_url": "https://nlovecooking.com/เสือร้องไห้/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เนื้อวัวหั่นเป็นชิ้น 500 กรัม",
+      "ซิอิ๊วขาว 2 ช้อนโต๊ะ",
+      "พริกไทย 1 ช้อนชา",
+      "น้ำปลา 1 ช้อนโต้ะ",
+      "น้ำมันหอย 1 ช้อนโต้ะ",
+      "น้ำปลา 2 ช้อนโต้ะ(น้ำจิ้ม)",
+      "น้ำมะนาว 3 ช้อนโต้ะ",
+      "หอมแดงซอย 2 ช้อนโต้ะ",
+      "ผักชีซอย 1 ช้อนชา",
+      "ข้าวคั่ว 2 ช้อนชา",
+      "พริกแห้งป่น 1 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood113",
+    "menu_th": "แกงส้มชะอมไข่",
+    "source_url": "https://nlovecooking.com/แกงส้มชะอมไข่/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ไข่ไก่ 3 ฟอง",
+      "กุ้งสดขนาดกลาง 10 ตัว",
+      "ชะอมเด็ดยอด 1 ถ้วย",
+      "น้ำพริกแกงส้ม 3 ช้อนโต๊ะ",
+      "น้ำมะขามเปียก 2 ช้อนโต้ะ",
+      "น้ำตาลปี๊บ 1 ช้อนโต๊ะ",
+      "น้ำปลา 3 ช้อนโต๊ะ",
+      "น้ำมะนาว 1 ช้อนโต๊ะ",
+      "น้ำเปล่า 3 ถ้วย",
+      "น้ำมันพืช สำหรับทอด"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood114",
+    "menu_th": "ล่าเตียง",
+    "source_url": "https://nlovecooking.com/ล่าเตียง/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ไข่เป็ด 4 ฟอง",
+      "เนื้อกุ้ง สับละเอียด 1 ถ้วย",
+      "หอมแดง สับหยาบ 2 ช้อนโต้ะ",
+      "ถั่วลิสง คั่วบุบ 2 ช้อนโต้ะ",
+      "ราก ผักชีหั่นหยาบ 1 ช้อนโต๊ะ",
+      "กระเทียม หั่นหยาบ 1 ช้อนโต๊ะ",
+      "พริกไทยเม็ด 1 ช้อนชา",
+      "น้ำตาลปี๊บ 3 ช้อนโต๊ะ",
+      "น้ำปลา 3 ช้อนโต๊ะ",
+      "น้ำมันพืช 2 ช้อนโต๊ะ",
+      "พริกชี้ฟ้าแดง ซอยเป็นเส้นและ ใบผักชี สำหรับตกแต่ง"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood115",
+    "menu_th": "หมี่กะทิ",
+    "source_url": "https://nlovecooking.com/หมี่กะทิ/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เส้นก๋วยเตี๋ยว 1 แพ็ค",
+      "เต้าเจี้ยว 2 ช้อนชา",
+      "พริกแกง 1 ช้อนโต้ะ",
+      "กะทิ 2 ถ้วยตวง",
+      "หมูสับ 4 ช้อนโต้ะ",
+      "หัวปลีหั่นพอคำ",
+      "ถั่วงอก 10 ช้อนโต้ะ",
+      "มะนาวฝานเป็นชิ้น",
+      "น้ำปลา 2 ช้อนโต้ะ",
+      "น้ำตาล 2 ช้อนโต้ะ",
+      "ไข่ไก่ 1 ฟอง",
+      "ถั่วลิสงทอด 2 ช้อนโต้ะ",
+      "น้ำมันพืช 2 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood116",
+    "menu_th": "ไก่ต้มน้ำปลา",
+    "source_url": "https://nlovecooking.com/ไก่ต้มน้ำปลา/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ไก่ส่วนน่อง 2 ชิ้น",
+      "รากผักชี 1 ราก นำมาบดให้ละเอียด",
+      "ข่าหั่นแว่น 2 ชิ้น",
+      "ตะไคร้ 1 ต้น นำมาหั่นเป็นท่อนและทุบ",
+      "ใบมะกรูด 2 ใบ ฉีกแกนใบออก",
+      "น้ำตาลปี๊บ 1 ช้อนโต้ะ",
+      "น้ำปลา 3 ช้อนโต้ะ",
+      "ซีอิ้วขาว 3 ช้อนโต้ะ",
+      "น้ำเปล่า 2 ลิตร"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood117",
+    "menu_th": "แกงเห็ดฟางใส่ผักหวาน",
+    "source_url": "https://nlovecooking.com/แกงเห็ดฟางใส่ผักหวาน-2/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ยอดผักหวาน 1/2 ถ้วย",
+      "เห็ดนางฟ้า 1/2 ถ้วย",
+      "เห็ดฟาง 1/2 ถ้วย",
+      "เห็ดฟางดอกตูม 1/2 ถ้วย",
+      "เห็ดนางฟ้า เห็ดเข็มทอง เห็ดหูหนู ผสมกัน ½ ถ้วย",
+      "พริกสดโขรก 2 ช้อนโต้ะ",
+      "หอมแดง โขรกหยาบ 3 ช้อนโต้ะ",
+      "ตะไคร้ หั่นหยาบ 4-5 ท่อน",
+      "ฟักทอง หั่นเป็นชิ้นพบคำ ครึ่ง ถ้วย",
+      "ใบแมงลัก 1 กำมือ",
+      "น้ำปลาร้า 1 ช้อนโต้ะ",
+      "น้ำปลา 1 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood118",
+    "menu_th": "แกงผักหวานใส่ไข่มดแดง",
+    "source_url": "https://nlovecooking.com/แกงผักหวานใส่ไข่มดแดง/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ผักหวานป่า ประมาณ 1 ถ้วย",
+      "ไข่มดแดง 1 ถ้วย",
+      "ใบแมงลัก 1 ถ้วย",
+      "น้ำปลาร้า 2 ช้อนโต๊ะ",
+      "นํ้าปลา 1 ช้อนโต๊ะ",
+      "น้ำเปล่า 1 ถ้วย",
+      "พริกสดโขรกหยาบ 2 ช้อนโต้ะ",
+      "ตะไคร้หั่นหยาบ 5 ท่อน",
+      "หอมแดงโขรกหยาบ 3 ช้อนโต้ะ",
+      "เกลือ ½ ช้อนชา",
+      "ใบมะกรูดฉีก 3 ใบ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood119",
+    "menu_th": "หมกปลาซิว",
+    "source_url": "https://nlovecooking.com/หมกปลาซิว/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ปลาซิว ( ลูกปลา ) 1 ถ้วย",
+      "ผักชี สับหยาบ 1 ช้อนโต้ะ",
+      "ใบต้นหอม หั่นหยาบ 2 ช้อนดต้ะ",
+      "พริกสด โขรกหยาบ 1 ช้อนโต้ะ",
+      "น้ำปลา  1 ช้อนโต้ะ",
+      "ตะไคร้ โขรกละเอียด 1 ช้อนโต้ะ",
+      "ใบแมงลัก 1 / 2 ถ้วย",
+      "เกลือ 1 ช้อนชา",
+      "ข้าวเบือ 1 ช้อนชา"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood120",
+    "menu_th": "ไก่นึ่งอีสาน",
+    "source_url": "https://nlovecooking.com/ไก่นึ่งอีสาน/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ไก่ ครึ่งตัว",
+      "หอมแดง 4 หัว",
+      "กระเทียม 4-5 กลีบ",
+      "รากผักชี 2 ต้น",
+      "ข่าหั่นแว่น 3-4 ชิ้น",
+      "ตะไคร้ หั่นหยาบ 1 ต้น",
+      "เกลือ 1 ช้อนชา",
+      "น้ำตาล ครึ่ง ช้อนชา",
+      "ใบมะกรูด 2 ใบ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood121",
+    "menu_th": "แกงกระด้าง",
+    "source_url": "https://nlovecooking.com/แกงกระด้าง/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เนื้อหมู หั่นเป็นชิ้นพอคำ 1 ถ้วย",
+      "หอมแดง 4 หัว",
+      "กระเทียม 3 หัว",
+      "พริกไทยป่น 1 ช้อนชา",
+      "รากผักชี 2 ต้น",
+      "เกลือ 1 ช้อนชา",
+      "น้ำปลา 1 ช้อนโต๊ะ",
+      "ผักชี หั่นเป็นฝอย 1 ช้อนโต๊ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood122",
+    "menu_th": "แกงโฮะ",
+    "source_url": "https://nlovecooking.com/แกงโฮะ/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "พริกแกงเผ็ด 1 ถ้วย",
+      "พริกแกงฮังเล 1 ถ้วย",
+      "แหนมหม้อ ขยี่ให้กระจาย 2 ถ้วย",
+      "หน่อไม้ดอง หั่นบางๆ 1 ถ้วย",
+      "แคบหมู 1 ถ้วย",
+      "วุ้นเส้น 1 ถ้วย",
+      "ใบมะกรูด ฉีก 4-5 ใบ",
+      "ผักตำลึง หั่นยาว 1 ถ้วย",
+      "ต้นตะไคร้ หั่นฝอย 2 ต้น",
+      "น้ำปลา 1 ช้อนโต้ะ",
+      "น้ำมะนาว 1 ช้อนโต้ะ",
+      "พริกสด บด 2 ช้อนโต๊ะ",
+      "กระเทียม บด 2 ช้อนโต๊ะ",
+      "มันพืช สำหรับผัด 3 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood123",
+    "menu_th": "กล้วยบวดชี",
+    "source_url": "https://nlovecooking.com/กล้วยบวชชี/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood124",
+    "menu_th": "กล้วยแขก",
+    "source_url": "https://nlovecooking.com/กล้วยแขก/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "กล้วยไข่ สุกพอดี 8 ลูก",
+      "แป้ง สำหรับทำแพนเค้ก 2 ถ้วยตวง",
+      "ไข่ไก่ 1 ฟอง",
+      "น้ำตาลทราย 1 ช้อนโต้ะ",
+      "นมสด 100 ซีซี",
+      "น้ำมัน สำหรับทอด"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood125",
+    "menu_th": "น้ำพริกกล้วยดิบ",
+    "source_url": "https://nlovecooking.com/น้ำพริกกล้วยดิบ/",
+    "status": "source_link_only",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood126",
+    "menu_th": "น้ำพริกปลาป่น",
+    "source_url": "https://nlovecooking.com/น้ำพริกปลาป่น/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เนื้อปลานิล 1 ถ้วยตวง",
+      "หอมเจียว 2 ช้อนโต้ะ",
+      "กระเทียมเจียว 3 ช้อนโต้ะ",
+      "หริกแห้งทอด 3 เม็ด",
+      "น้ำมะขามเปียก 2 ช้อนโต้ะ",
+      "เกลือ 1 ช้อนชา",
+      "น้ำตาลปี๊บ 2 ช้อนโต้ะ",
+      "น้ำมัน สำหรับทอด",
+      "ผักสดตามใจชอบ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood127",
+    "menu_th": "ยำหูหมู",
+    "source_url": "https://nlovecooking.com/ยำหูหมู/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "หูหมู 1 หู",
+      "แตงกวา 1 ลูก นำมาหั่นเป็นเส้น",
+      "คืนฉ่าย 1 ต้น นำมาซอย",
+      "มะเขือเทศ 1 ลูก นำมาหั่นซีก",
+      "หอมหัวใหญ่ ครึ่งลูก นำมาซอยเป็นเส้น",
+      "พริกขี้เหนูสวน 4 เม็ด นำมาบดละเอียด",
+      "กระเทียม 2 กลีบ บดละเอียด",
+      "ผักกาดหอม 3 – 4 ใบ",
+      "น้ำตาลทราย 2 ช้อนโต้ะ",
+      "น้ำมะนาว 2 ช้อนโต้ะ",
+      "น้ำปลา 2 ช้อนโต้ะ",
+      "ถั่วลิสงคั่ว 1 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood128",
+    "menu_th": "น้ำพริกอ่องทูน่า",
+    "source_url": "https://nlovecooking.com/น้ำพริกอ่องทูน่า/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เนื้อปลาทูน่ากระป๋อง 1 กระป๋อง",
+      "พริกแกงเผ็ด 2 ช้อนโต้ะ",
+      "น้ำมันพืช 2 ช้อนโต้ะ",
+      "มะเขือเทศ 2 ลูก นำมาหั่นเต๋า",
+      "น้ำตาลปี๊บ 2 ช้อนโต้ะ",
+      "น้ำปลา 2 ช้อนโต้ะ",
+      "ต้นหอมซอย 1 หยิบมือ",
+      "ผักสดต่างๆสำหรับทานกับน้ำพริก เช่น มะเขือเปราะ แตงกวา ถั่วพลู ถั่วฝักยาว เป็นต้น"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood129",
+    "menu_th": "แกงฮังเล",
+    "source_url": "https://nlovecooking.com/แกงฮังเล/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เนื้อขาหมู 1 กิโลกรัม",
+      "น้ำพริกแกงเผ็ด 3 ช้อนโต้ะ",
+      "ผงฮังเล 1 ช้อนชา",
+      "เกลือ 1 ช้อนชา",
+      "ซีอิ๊วดำ 1 ช้อนชา",
+      "ซีอิ๊วขาว 2 ช้อนโต๊ะ",
+      "น้ำปลา 2 ช้อนโต๊ะ",
+      "ขิงซอย 3 ช้อนโต้ะ",
+      "หัวหอมซอย 3 ช้อนโต้ะ",
+      "กระเทียมบด 2 ช้อน",
+      "น้ำตาลปี๊บ 3 ช้อนโต๊ะ",
+      "น้ำมะขามเปียก 1 ถ้วย",
+      "น้ำซุป 4 ถ้วย",
+      "กระท้อนเปรี้ยวสับ 1 ถ้วย"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood130",
+    "menu_th": "แกงอ่อมหมู",
+    "source_url": "https://nlovecooking.com/แกงอ่อมหมู/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood131",
+    "menu_th": "ผัดฉ่าทะเล",
+    "source_url": "https://nlovecooking.com/ผัดฉ่าทะเล/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ปลาหมึก หั่นเป็นชิ้น 1 ถ้วย",
+      "เนื้อกุ้ง 1 ถ้วย",
+      "เนื้อปลากะพง หั่น 1 ถ้วย",
+      "พริกไทยสด 1 ช้อนชา",
+      "น้ำมันหอย 1 ช้อนโต้ะ",
+      "รากผักชี บด 1 ช้อนชา",
+      "กระเทียม บด 1 ช้อนโต๊ะ",
+      "น้ำมัน 2 ช้อนโต้ะ",
+      "น้ำปลา 2 ช้อนโต๊ะ",
+      "น้ำตาล 1 ช้อนชา",
+      "คื่นฉ่าย หั่น 2 ช้อนโต้ะ",
+      "ต้นหอม หั่น 2 ช้อนโต้ะ",
+      "พริกสด ซอย 1 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood132",
+    "menu_th": "น้ำพริกเผากุ้ง",
+    "source_url": "https://nlovecooking.com/น้ำพริกเผากุ้ง/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เนื้อกุ้งสับ 1 ภ้วย",
+      "กุ้งแห้ง 1/2 ถ้วย",
+      "ถั่งลิสง 1/2 ถ้วย",
+      "พริกแห้ง หั่นเป็นท่อน 1 ถ้วย",
+      "กระเทียม ซอยบางๆ 1 ถ้วย",
+      "ข่าแก่ ซอย 1 ช้อนโต้ะ",
+      "กระเทียมเจียว 1 ช้อนโต้ะ",
+      "น้ำตาลปี๊บ 1/2 ถ้วย",
+      "น้ำมะขามเปียก 2 ช้อนโต้ะ",
+      "น้ำปลา 2 ช้อนโต้ะ",
+      "น้ำมันพืช 3 ช้อนโต้ะ",
+      "ผักสด สำหรับทานกับน้ำพริก ตามใจชอบ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood133",
+    "menu_th": "น้ำพริกมะเขือพวง",
+    "source_url": "https://nlovecooking.com/น้ำพริกมะเขือพวง/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "มะเขือพวง 1 ถ้วย",
+      "เนื้อปลาทูย่าง 1 ตัว",
+      "พริกสด ย่าง 1/2 ถ้วย",
+      "มะดัน ซอย 2 ช้อนโต้ะ",
+      "กระเทียม บด 2 ช้อนโต้ะ",
+      "กะปิ เผาไฟ 1 ช้อนโต้ะ",
+      "น้ำตาลปี๊บ 1 ช้อนโต้ะ",
+      "น้ำปลา 1 ช้อนโต้ะ",
+      "น้ำมะนาว 1 ช้อนโต้ะ",
+      "ผักสด ตามใจชอบ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood134",
+    "menu_th": "ข้าวผัดผงกะหรี่ทะเล",
+    "source_url": "https://nlovecooking.com/ข้าวผัดผงกะหรี่ทะเล/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ข้าวสวย 1 ถ้วย",
+      "เม็ดถั่วลันเตา 2 ช้อนโต้ะ",
+      "ถั่วแดงหลวงต้มสุก 2 ช้อนโต้ะ",
+      "กุ้งแชแม่น้ำ 5 ตัว",
+      "เนื้อปลากะพงขาวหั่น 3 ชิ้น",
+      "ปลาหมึกหั่น 3 ช้อนโต้ะ",
+      "มะเขือเทศหั่น 3 ชิ้น",
+      "หอมใหญ่หั้นหยาบๆ 2 ช้อนโต๊ะ",
+      "เกลือป่น 1 ช้อนชา",
+      "น้ำตาล 1 ช้อนโต้ะ",
+      "ผงกะหรี่ 2 ช้อนชา",
+      "ไข่ไก่ 1 ฟอง",
+      "นมสด 2 ช้อนโต้ะ",
+      "ซอสถั่วเหลือง 1 ช้อนโต้ะ",
+      "น้ำมันพืช 2 ช้อนโต๊ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood135",
+    "menu_th": "ยำจิ้นไก่",
+    "source_url": "https://nlovecooking.com/ยำจิ้นไก่/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เนื้อไก่ ฉีกเป็นชิ้น 1 ถ้วย",
+      "เห็ดฟาง 1 ถ้วย",
+      "หัวปลีหั่น 1 ถ้วย",
+      "ข่า ซอย 1 ช้อนชา",
+      "ตะไคร้ ซอย 2 ช้อนโต้ะ",
+      "หอมแดง ซอย 3 ช้อนโต้ะ",
+      "กระเทียม 2 หัว",
+      "พริกแห้ง 5 เม็ด",
+      "ผักชี ต้นหอม ซอย 2 ช้อนโต๊ะ",
+      "น้ำซุปไก่ 3 ถ้วย"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood136",
+    "menu_th": "แกงผักปั๋งใส่แหนม",
+    "source_url": "https://nlovecooking.com/แกงผักปั๋งใส่แหนม/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ยอดอ่อนผักปั๋ง 4 ถ้วย",
+      "แหนม ซอยเป็นชิ้น 1 ถ้วย",
+      "พริกหนุ่ม หั่นเป้นท่อน 4 ช้อนโต้ะ",
+      "หอมแดง 3 หัว",
+      "มะเขือเทศ หั่นครึ่ง 3 ลูก",
+      "กระเทียม 2 หัว",
+      "กะปิ 1/2 ช้อนโต้ะ",
+      "ปลาร้า 1 ช้อนชา",
+      "น้ำมะนาว 2 ช้อนโต๊ะ",
+      "เกลือ 1 ช้อนชา",
+      "ต้นหอมผักชีซอย 1/2 ถ้วย",
+      "น้ำซุปหมู 4 ถ้วย"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood137",
+    "menu_th": "ปลาอินทรีย์ทอดน้ำปลา",
+    "source_url": "https://nlovecooking.com/ปลาอินทรีย์ทอดน้ำปลา/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เนื้อปลาอินทรีย์ 2 ชิ้น",
+      "เกลือ 1 ช้อนชา",
+      "พริกไทย 1 ช้อนชา",
+      "น้ำมันพืช 2 ถ้วยตวง",
+      "น้ำเปล่า 1 ถ้วยตวง",
+      "ซอสคิกโคแมน 4 ช้อนโต้ะ",
+      "น้ำตาล 1 ช้อนโต๊ะ",
+      "ขิงหั่นแว่น 4 ชิ้น"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood138",
+    "menu_th": "แกงขนุนซี่โครงหมู",
+    "source_url": "https://nlovecooking.com/แกงขนุนใส่ซี่โครงหมู/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood139",
+    "menu_th": "แกงผักหวานปลาย่าง",
+    "source_url": "https://nlovecooking.com/แกงผักหวานใส่ปลาย่าง/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood140",
+    "menu_th": "แกงปลาใส่ตูน",
+    "source_url": "https://nlovecooking.com/แกงปลาใส่ตูน/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood141",
+    "menu_th": "แกงไก่ใส่ฟักหม่น",
+    "source_url": "https://nlovecooking.com/แกงไก่ใส่ฟักหม่น/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เนื้อไก่ หั่นเป็นชิ้น 1 ถ้วย",
+      "ฟักเขียว หั่นเป็นชิ้น 2 ถ้วย",
+      "ผักชีฝรั่ง ซอย 2 ช้อนโต้ะ",
+      "มะแขว่น โขลกให้ละเอียด 2 ช้อนโต๊ะ",
+      "น้ำปลา 1 ช้อนโต๊ะ",
+      "น้ำมันพืช 3 ช้อนโต๊ะ",
+      "น้ำซุป 3 ถ้วย",
+      "พริกแห้ง 4 เม็ด",
+      "ข่าซอย 1 ช้อนโต้ะ",
+      "ตะไคร้ซอย 3 ช้อนโต๊ะ",
+      "หอมหัวแดง 3 หัว",
+      "กระเทียม 2 หัว",
+      "เกลือ 1 ช้อนชา",
+      "ปลาร้าสับ 1 ช้อนโต๊ะ",
+      "กะปิ 1 ช้อนชา"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood142",
+    "menu_th": "น้ำพริกปลาร้าผัด",
+    "source_url": "https://nlovecooking.com/น้ำพริกปลาร้าผัด/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เนื้อปลาร้า 1 ถ้วย",
+      "พริกแกงเผ็ด 2 ช้อนโต้ะ",
+      "ใบมะกรูด ซอย 2 ช้อนโต้ะ",
+      "ผักชีฝรั่ง ซอย 1 ช้อนโต้ะ",
+      "น้ำตาล 1 ช้อนโต้ะ",
+      "น้ำมันพืช 2 ช้อนโต้ะ",
+      "พริกสด 4-5 เม็ด",
+      "ผักสด สำหรับทานกับน้ำพริก เช่น มะเขือ ผักกาดขาว กะหล่ำปลี แตงกวา เป็นต้น"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood143",
+    "menu_th": "น้ำพริกหมูโคราช",
+    "source_url": "https://nlovecooking.com/น้ำพริกหมูโคราช/",
+    "status": "source_link_only",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood144",
+    "menu_th": "ยำสะนัด",
+    "source_url": "https://nlovecooking.com/ยำสะนัด/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood145",
+    "menu_th": "ไก่ห่อใบเตย",
+    "source_url": "https://nlovecooking.com/ไก่ห่อใบเตย/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เนื้อไก่ ประมาณ 500 กรัม",
+      "รากผักชี บด 1 ช้อนโต้ะ",
+      "กระเทียม บด 1 ช้อนโต้ะ",
+      "พริกไทย บด 1 ช้อนชา",
+      "ซอสถั่วเหลือง 1 ช้อนโต๊ะ",
+      "ซอสน้ำมันหอย 2 ช้อนโต๊ะ",
+      "น้ำมันงา 1 ช้อนชา",
+      "ใบเตย สำหรับห่อ เนื้อไก่",
+      "น้ำมันพืช 1 ถ้วย",
+      "น้ำตาล 6 ช้อนโต๊ะ",
+      "น้ำเปล่า 2 ช้อนโต๊ะ",
+      "ซอสถั่วเหลือง 2 ช้อนโต๊ะ",
+      "ซีอิ๊วดำ 1 ช้อนโต๊ะ",
+      "เกลือ 1 ช้อนชา",
+      "งาคั่ว 1 ช้อนโต๊ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood146",
+    "menu_th": "ยำชะอมทอดกรอบ",
+    "source_url": "https://nlovecooking.com/ยำชะอมทอดกรอบ-2/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ยอดชะอม 1 ถ้วย",
+      "กุ้งสด 1 ถ้วย",
+      "หอมแดงซอย 2 ช้อนโต้ะ",
+      "น้ำตาลปีบ 1 ช้อนโต้ะ",
+      "น้ำพริกเผา 1 ช้อนโต้ะ",
+      "น้ำมะนาว 1 ช้อนชา",
+      "พริกสดซอย 1 ช้อนโต้ะ",
+      "ขิงซอย 1 ช้อนโต้ะ",
+      "แป้งสำหรับทอด 4 ช้อนโต้ะ",
+      "น้ำมันสำหรับทอด 1 ถ้วย"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood147",
+    "menu_th": "พล่ากุ้ง",
+    "source_url": "https://nlovecooking.com/พล่ากุ้ง/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood148",
+    "menu_th": "น้ำพริกปลาร้าสับ",
+    "source_url": "https://nlovecooking.com/น้ำพริกปลาร้าสับ/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ปลาร้า 1 ตัว",
+      "พริกขี้หนู 5 เม็ด",
+      "หอมหัวแดง 2 หัว",
+      "กระเทียม 3 กลีบ",
+      "ใบมะกรูด 2 ใบ นำมาซอยเป็นเส้น",
+      "ขิงนำมาซอยเล็กๆ 1 ช้อนโต้ะ",
+      "กระชาย 1 แง่ง นำมาซอย",
+      "ตะไคร้ 1 ต้นนำมาซอย",
+      "น้ำมะขามเปียก 1 ช้อนโต้ะ",
+      "น้ำตาลปี๊บ 1 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood149",
+    "menu_th": "ข้าวผัดปลากระป๋อง",
+    "source_url": "https://nlovecooking.com/ข้าวผัดปลากระป๋อง/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ข้าวหุงสุก 1 จาน",
+      "ปลากระป๋อง 1 กระป๋อง",
+      "กระเทียม 2 กลีบ นำมาบดละเอียด",
+      "หอมหัวใหญ่ นำมาหั่นลูก 2 ช้อนโต้ะ",
+      "ถั่วลันเตา 1 ช้อนโต้ะ",
+      "น้ำตาลทราย 1 ช้อนชา",
+      "เกลือป่น 1 หยิบมือ",
+      "ซอสปรุงรส 1 ช้อนโต้ะ",
+      "ซอสน้ำมันหอย 1 ช้อนโต้ะ",
+      "เนยเค็ม 1 ช้อนโต้ะ",
+      "น้ำมันพืช 1 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood150",
+    "menu_th": "ยำไข่เจียวน้ำพริกเผา",
+    "source_url": "https://nlovecooking.com/ยำไข่เจียวน้ำพริกเผา/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ไข่ไก่ 2 ฟอง",
+      "หมูสับ 2 ช้อนโต้ะ",
+      "ซอสถั่วเหลือง 1 ช้อนโต้ะ",
+      "น้ำปลา(สำหรับไข่เจียว) 1 ช้อนโต้ะ",
+      "กระเทียมดองฝ่าซีกตามยาว 1 หัว",
+      "กุ้งแห้ง 2 ช้อนโต๊ะ",
+      "น้ำพริกเผา 1 ช้อนโต๊ะ",
+      "มะนาวหั่นติดผิว 1 ช้อนชา",
+      "น้ำตาลทราย 1 ช้อนโต๊ะ",
+      "น้ำปลา 1 ช้อนโต๊ะ",
+      "น้ำมะนาว 1 ช้อนโต๊ะ",
+      "พริกสดหั่น 1 ช้อนโต้ะ",
+      "ผักชีหั่นฝอย 1 ช้อนชา",
+      "น้ำมันพืชสำหรับทอดไข่"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood151",
+    "menu_th": "ตับหมูผัดพริกไทยดำ",
+    "source_url": "https://nlovecooking.com/ตับหมูผัดพริกไทยดำ/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ตับหมูหั่น 1 ถ้วย",
+      "พริกไทยดำทุบ 1 ช้อนโต๊ะ",
+      "กระเทียมบด 1 ช้อนชา",
+      "ผงรสดี 1 ช้อนชา",
+      "ซอสถั่วเหลือง 1 ช้อนโต๊ะ",
+      "น้ำตาล 1 ช้อนโต๊ะ",
+      "ซอสน้ำมันหอย 1 ช้อนโต๊ะ",
+      "พริกไทยป่น 1 ช้อนชา",
+      "เหล้าจีน 1 ช้อนโต๊ะ",
+      "น้ำเปล่า 2 ช้อนโต๊ะ",
+      "น้ำมันพืช 1 ช้อนโต๊ะ",
+      "หอมใหญ่หั่น 3 ช้อนโต้ะ",
+      "พริกหวานหั่น 3 ช้อนโต้ะ",
+      "พริกชี้ฟ้าหั่นยาว 2 ช้อนโต้ะ",
+      "ต้นหอมหั่นหยาบๆ 2 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood152",
+    "menu_th": "ตับหวาน",
+    "source_url": "https://nlovecooking.com/ตับหวาน/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ตับหมูหั่น 1 ถ้วย",
+      "ข้าวคั่ว 1 ช้อนโต๊ะ",
+      "พริกป่น 1 ช้อนโต๊ะ",
+      "น้ำมะนาว 2 ช้อนโต๊ะ",
+      "น้ำปลา 1 ช้อนโต๊ะ",
+      "น้ำตาล 1 ช้อนชา",
+      "ต้นหอมซอย 1 ช้อนโต๊ะ",
+      "ใบสาระแหน่ 2 ช้อนโต้ะ",
+      "หอมแดงซอย 3 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood153",
+    "menu_th": "ผัดยอดฟักแม้ว",
+    "source_url": "https://nlovecooking.com/ผัดยอดฟักแม้ว/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ยอดมะระอ่อน 1 ถ้วย",
+      "กระเทียมไทย บด 1 ช้อนชา",
+      "พริกขี้หนูสวนบด 1 ช้อนโต้ะ",
+      "เต้าเจี้ยวบดอย่างดี 1 ช้อนชา",
+      "พริกป่น 1 ช้อนชา",
+      "น้ำปลาอย่างดี 1 ช้อนโต้ะ",
+      "น้ำตาลทราย 1 ช้อนชา",
+      "ซอสหอยนางรม 1 ช้อนโต้ะ",
+      "น้ำซุปกระดูก 3 ช้อนโต้ะ",
+      "น้ำมันพืช สพหรับนำมาผัด 1 ช้อนชา"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood154",
+    "menu_th": "กุ้งทอดราดพริก",
+    "source_url": "https://nlovecooking.com/กุ้งทอดราดพริก/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "กุ้ง 6 ตัว",
+      "พริกบด 1 ช้อนโต๊ะ",
+      "กระเทียมบด 1 ช้อนโต๊ะ",
+      "น้ำมะขามเปียก 1 ช้อนโต้ะ",
+      "น้ำตาล 2 ช้อนโต้ะ",
+      "น้ำปลา 1 ช้อนโต้ะ",
+      "ใบผักชีหั่น 1 ช้อนโต้ะ",
+      "น้ำมัน 2 ถ้วย"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood155",
+    "menu_th": "ซี่โครงหมูทอดสามรส",
+    "source_url": "https://nlovecooking.com/ซี่โครงหมูทอดสามรส/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood156",
+    "menu_th": "น้ำพริกปลาย่าง",
+    "source_url": "https://nlovecooking.com/น้ำพริกปลาย่าง/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ปลาช่อน 1 ตัว",
+      "หอมแดง 3 หัว",
+      "เกลือ 1 ช้อนโต๊ะ",
+      "ข่า ซอย 2 ช้อนโต้ะ",
+      "ตะไคร้ซอย 2 ช้อนโต้ะ",
+      "น้ำตาลปี๊บ 1 ช้อนโต้ะ",
+      "พริกสด 10 เม็ด",
+      "กระเทียม 1 หัว",
+      "มะขามเปียก 2 ช้อนโต้ะ",
+      "ผักสด"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood157",
+    "menu_th": "ข้าวผัดเบญจรงค์",
+    "source_url": "https://nlovecooking.com/ข้าวผัดเบญจรงค์/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ข้าวสวยหุงสุก 3 ถ้วย",
+      "ถั่วแดงต้ม ครึ่งถ้วย",
+      "ถั่วลันเตาต้ม ครึ่งถ้วย",
+      "ถั่วดำต้ม ครึ่งถ้วย",
+      "ถั่วเขียวต้ม ครึ่งถ้วย",
+      "น้ำมันรำข้าว 2 ช้อนโต้ะ",
+      "กระเทียมบด 1 ช้อนโต้ะ",
+      "พริกไทย 1 ช้อนชา",
+      "ต้มหอมซอย 1 ช้อนโต้ะ",
+      "ซอสถั่วเหลือง 1 ช้อนโต้ะ",
+      "ผักชี มะเขือ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood158",
+    "menu_th": "น้ำพริกกุ้งสด",
+    "source_url": "https://nlovecooking.com/น้ำพริกกุ้งสด/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood159",
+    "menu_th": "แกงคั่วมะระปลาดุก",
+    "source_url": "https://nlovecooking.com/แกงคั่วมะระปลาดุก/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "พริกแห้ง 6 เม็ด",
+      "เกลือ 1 ช้อนชา",
+      "กระเทียมบด 2 ช้อนโต้ะ",
+      "ข่าสับละเอียด 1 ช้อนโต้ะ",
+      "ตะไคร้บด 3 ช้อนโต๊ะ",
+      "ผิวมะกรูด 1 ช้อนชา",
+      "รากผักชีบด 1 ช้อนโต๊ะ",
+      "หอมแดงบด 2 ช้อนโต้ะ",
+      "กะปิ 1 ช้อนชา",
+      "เนื้อปลาดุก 1 ถ้วย",
+      "มะระหั่นพอคำ 1 ถ้วย",
+      "ใบมะกรูดซอย 1 ช้อนโต๊ะ",
+      "พริกสดซอย 1 ช้อนโต้ะ",
+      "กะทิ 2 ถ้วย",
+      "น้ำเปล่า 2 ถ้วย",
+      "น้ำปลา 3 ช้อนโต๊ะ",
+      "น้ำตาล 1 ช้อนโต๊ะ",
+      "น้ำมันพืช 2 ช้อนโต๊ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood160",
+    "menu_th": "แกงเหลืองมะละกอกุ้ง",
+    "source_url": "https://nlovecooking.com/แกงเหลืองมะละกอกุ้ง/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood161",
+    "menu_th": "ขนมจีนน้ำยาป่า",
+    "source_url": "https://nlovecooking.com/ขนมจีนน้ำยาป่า/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "น้ำปลาร้า ต้มสุก 2 ถ้วยตวง",
+      "พริกสด ครึ่งถ้วยตวง",
+      "กระชาย ครึ่งถ้วยตวง",
+      "หอมแดง 1 ถ้วยตวง",
+      "กระเทียม ครึ่งถ้วยตวง",
+      "ปลาช่อน 1 ตัว หรือปลานิล",
+      "ขนมจีน 2 ถ้วย",
+      "ไข่ต้ม และ ผักสด สำหรับทานกับ ขนมจีนน้ำยาป่า เช่น ถั่วฝักยาว  ถั่วงอก ใบแมงลัก แตงกวา ผักกาดดอง เป็นต้น"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood162",
+    "menu_th": "ปีกไก่คั่วพริกเกลือ",
+    "source_url": "https://nlovecooking.com/ปีกไก่คั่วพริกเกลือ/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood163",
+    "menu_th": "ข้าวผัดปู",
+    "source_url": "https://nlovecooking.com/ข้าวผัดปู/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ข้าวสวย 1 ถ้วยตวง",
+      "เนื้อปู 4 ช้อนโต้ะ",
+      "ต้นหอมซอย 2 ช้อนชา",
+      "มะเขือเทศหั่น 2 ช้อนโต้ะ",
+      "ไข่ไก่ 1 ฟอง",
+      "น้ำตาล 1 ช้อนชา",
+      "ซอสน้ำมันหอย 1 ช้อนชา",
+      "ซอสปรุงรส 1 ช้อนโต้ะ",
+      "น้ำมันพืช 2 ช้อนโต้ะ",
+      "แตงกวาหั่น 3 ชิ้น และต้นหอม"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood164",
+    "menu_th": "ปลาผัดสะตอ",
+    "source_url": "https://nlovecooking.com/ปลาผัดสะตอ/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เนื้อปลา หั่นเป็นชิ้นๆ 1 ตัว",
+      "เม็ดสะตอ ผ่าครึ่ง 1 ถ้วย",
+      "หอมแดง ซอย 3 ช้อนโต้ะ",
+      "กระเทียม ซอย 3 ช้อนโต้ะ",
+      "พริกสด ซอย 2 ช้อนโต้ะ",
+      "กะปิ 1 ช้อนชา",
+      "น้ำปลา 1 ช้อนโต๊ะ",
+      "น้ำตาล 1 ช้อนชา",
+      "น้ำมะนาว 1 ช้อนชา",
+      "น้ำเปล่า 2 ช้อนโต๊ะ",
+      "น้ำมันพืช สำหรับผัด 2 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood165",
+    "menu_th": "ห่อหมกมะพร้าวอ่อน",
+    "source_url": "https://nlovecooking.com/ห่อหมกมะพร้าวอ่อน/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เนื้อปลาช่อน 1 ตัว",
+      "เนื้อปลากราย 1 ตัว",
+      "มะพร้าวอ่อน 1 ลูก",
+      "พริกแกงเผ็ด 5 ช้อนโต้ะ",
+      "น้ำปลา 2 ช้อนโต้ะ",
+      "หัวกะทิ 1 ถ้วย",
+      "หางกะทิ 1 ถ้วย",
+      "ใบมะกรูดซอย 1 ใบ",
+      "ใบโหระพา 10 ใบ",
+      "พริกสดหั่นเฉียง 4 เม็ด",
+      "ใบยอ 2 ใบ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood166",
+    "menu_th": "แกงป่าหมู",
+    "source_url": "https://nlovecooking.com/แกงป่าหมู/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "เนื้อหมูสามชั้น 1 จาน นำมาหั่นเป็นชิ้นขนาดพอดีคำ",
+      "พริกแกงแดง 3 ช้อนโต๊ะ",
+      "มะเขือเปราะ หั่นเป็น 4 ท่อน 2 ลูก",
+      "มะเขือพวง 3 ช้อนโต้ะ",
+      "ขิง ซอยให้เป็นเส้นๆ 3 ช้อนโต้ะ",
+      "ถั่วฝักยาว หั่น ครึ่งถ้วยตวง",
+      "พริกไทยอ่อน 3 ช้อนโต้ะ",
+      "ฝักข้าวโพดอ่อน หั่น ครึ่งถ้วย",
+      "น้ำซุปหมู 2 ถ้วยตวง",
+      "น้ำปลา 2 ช้อนโต๊ะ",
+      "เกลือ 1 หยิบมือ",
+      "ใบมะกรูด หั่นฝอย 1 ช้อนโต้ะ",
+      "พริกสด บด 1 ช้อนโต้ะ",
+      "ใบกะเพรา  5-10 ใบ",
+      "น้ำมันพืช สำหรับผัด 2 ช้อนโต๊ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood167",
+    "menu_th": "ต้มยำขาหมู",
+    "source_url": "https://nlovecooking.com/ต้มยำขาหมู/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood168",
+    "menu_th": "บะหมี่กะเพราหมูสับ",
+    "source_url": "https://nlovecooking.com/บะหมี่กระเพราหมูสับ/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood169",
+    "menu_th": "ข้าวมันส้มตำไทย",
+    "source_url": "https://nlovecooking.com/ข้าวมันส้มตำไทย/",
+    "status": "source_link_only",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood170",
+    "menu_th": "ข้าวผัดหมูแดง",
+    "source_url": "https://nlovecooking.com/ข้าวผัดหมูแดง/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ข้าวสวย 1 ถ้วย"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood171",
+    "menu_th": "ข้าวผัดน้ำพริกกะปิ",
+    "source_url": "https://nlovecooking.com/ข้าวผัดน้ำพริกกะปิ/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ข้าวสวย 1 ถ้วย",
+      "ไข่ไก่ 1 ฟอง",
+      "เนื้อปลาทู 1/2 ตัว",
+      "กระเทียม บด 1 ช้อนชา",
+      "ถั่วลันเตา 1 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood172",
+    "menu_th": "ต้มโคล้งทะเล",
+    "source_url": "https://nlovecooking.com/ต้มโคล้งทะเล/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "กุ้งสด 3 ตัว แกะเปลือก แกะหัว",
+      "ปลาหมึก 1 ตัว หั่นพอดีคำ",
+      "หอยแมลงภู่ 4 ตัว",
+      "เนื้อปลา 4 ชิ้น หั่นพอดีคำ",
+      "น้ำซุปกระดูกหมู 4 ถ้วยตวง",
+      "เห็ดโคน 4 – 5 หัว หั่นครึ่ง",
+      "น้ำมะขามเปียก 2 ข้อนโต้ะ",
+      "หัวหอมแดง 3 หัว",
+      "เกลือ 1 ช้อนชา",
+      "พริกแห้งเผา 4 เม็ด",
+      "ต้นตะไคร้ 1 ต้น บุบ 3 – 4 ท่อน",
+      "ใบมะกรูด 2 – 3 ใบ",
+      "น้ำมะนาว 2 ช้อนโต้ะ",
+      "มะเขือเทศ 2 ลูก หั่นครึ่ง",
+      "ผักชีฝรั่ง 1 ต้น ซอย",
+      "หอมใหญ่ ซอย 1 หยิบมือ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood173",
+    "menu_th": "ขนมจีนน้ำยาปู",
+    "source_url": "https://nlovecooking.com/ขนมจีนน้ำยาปู/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood174",
+    "menu_th": "ข้าวผัดต้มยำกุ้ง",
+    "source_url": "https://nlovecooking.com/ข้าวผัดต้มยำกุ้ง/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ข้าวสวย 1 ถ้วย",
+      "กุ้งสด 5 ตัว",
+      "น้ำพริกเผา 1 ช้อนโต้ะ",
+      "ตะไคร้ซอย 3-4 ท่อน",
+      "ข่าซอย 3-4 แว่น",
+      "พริกขี้หนูสวนบุบ 3-4 เม็ด",
+      "ใบมะกรูดซอย 2-3 ใบ",
+      "เห็ดฟางซอย 1-2 หัว",
+      "น้ำปลา 2 ช้อนโต้ะ",
+      "น้ำมะนาว 1 ช้อนโต้ะ",
+      "น้ำซุป 3 ช้อนโต้ะ",
+      "น้ำตาลทราย 1 ช้อนชา",
+      "น้ำมันพืช 1 ช้อนโต้ะ",
+      "แตงกวา สำหรับแต่งหน้าอาหาร",
+      "ต้นหอมสำหรับแต"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood175",
+    "menu_th": "ต้มเค็มฟักหมูสามชั้น",
+    "source_url": "https://nlovecooking.com/ต้มเค็มฟักหมูสามชั้น/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ฟักเขียว หั่นเป็นชิ้นพอคำ 1 จาน",
+      "หมูสามชั้น หั่นเป็นชิ้นพอคำ 1 จาน",
+      "กะปิ 1 ช้อนชา",
+      "น้ำตาลปี๊บ 2 ช้อนโต้ะ",
+      "ซอสถั่วเหลือง 3 ช้อนโต้ะ",
+      "ซอสหอยนางรม 1 ช้อนโต้ะ",
+      "รากผักชี พริกไทย โขรก 1 ช้อนโต้ะ",
+      "หอมแดงบุบ 3 หัว",
+      "น้ำมันพืช 1 ช้อนโต้ะ",
+      "น้ำเปล่า 2 ลิตร"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood176",
+    "menu_th": "ข้าวเหนียวปิ้งหน้ากุ้ง",
+    "source_url": "https://nlovecooking.com/ข้าวเหนียวปิ้งไส้กุ้ง/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood177",
+    "menu_th": "ห่อหมกปลาหมึก",
+    "source_url": "https://nlovecooking.com/ห่อหมกปลาหมึก/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood178",
+    "menu_th": "ต้มยำกุ้งน้ำค้น",
+    "source_url": "https://nlovecooking.com/ต้มยำกุ้งน้ำค้น/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "กุ้งสด 4-5 ตัว",
+      "น้ำพริกเผา 1 ช้อนโต้ะ",
+      "น้ำปลา 2 ช้อนโต้ะ",
+      "น้ำมะขามเปียก 1 ช้อนโต้ะ",
+      "น้ำมะนาว 1 ช้อนโต้ะ",
+      "พริกสด 1 ช้อนโต้ะ",
+      "นมค้นจืด 1 ช้อนโต้ะ",
+      "ใบมะกรูด 3 ใบ",
+      "น้ำซุปหมู 2 ถ้วย",
+      "ข่า หั่นเป็นชิ้น 2-3 ชิ้น",
+      "ตะไคร้ หั่นเป็นท่อน 2-3 ชิ้น",
+      "หอมแดง ผ่าครึ่ง 2 ลูก",
+      "ผักชีฝรั่ง ซอยหยาบ 2 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood179",
+    "menu_th": "ต้มยำไข่เจียว",
+    "source_url": "https://nlovecooking.com/ต้มยำไข่เจียว/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood180",
+    "menu_th": "ข้าวผัดหมูลิ้นจี่",
+    "source_url": "https://nlovecooking.com/ข้าวผัดหมูลิ้นจี่/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood181",
+    "menu_th": "ทับทิมกรอบรากบัว",
+    "source_url": "https://nlovecooking.com/ทับทิมกรอบรากบัว/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood182",
+    "menu_th": "ข้าวผัดน้ำพริกเผา",
+    "source_url": "https://nlovecooking.com/ข้าวผัดน้ำพริกเผา/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ข้าวหุงสุก 1 ถ้วย",
+      "กระเทียมบด 1 ช้อนชา",
+      "กุ้งสด ปลอกเปลือกผ่าหลัง 4-5 ตัว",
+      "พริกขี้หนูสวนบุบ 1 ช้อนโต้ะ",
+      "น้ำพริกเผา 2 ช้อนโต้ะ",
+      "น้ำตาลทราย 1 ช้อนโต้ะ",
+      "ซอสปรุงรส 1 ช้อนโต้ะ",
+      "หอมแดงซอย 1 ช้อนชา",
+      "ผักชีสำหรับโรยหน้า",
+      "แตงกาวสำหรับจัดหน้า",
+      "พริกน้ำปลา สำหรับทานคู่กับ ข้าวผัด",
+      "น้ำมันพืช 2 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood183",
+    "menu_th": "ข้าวผัดมันกุ้ง",
+    "source_url": "https://nlovecooking.com/ข้าวผัดมันกุ้ง/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ข้าวสวย 1 ถ้วย",
+      "มันกุ้ง 3 ช้อนโต้ะ",
+      "รากผักชี บด 1 ช้อนชา",
+      "กระเทียม บด 1 ช้อนชา",
+      "น้ำมันหมู 2 ช้อนโต้ะ",
+      "กุ้งสด 3-4 ตัว",
+      "น้ำตาล 1 ช้อนชา",
+      "ซอสปรุงรส 2 ช้อนโต้ะ",
+      "พริกไทยป่น 1 ช้อนชา",
+      "แตงกวา หั่่นเป็นชิ้น 3 ชิ้น",
+      "ผักชีโรยหน้า",
+      "พริกน้ำปลา 1 ถ้วยน้ำจิ้ม ( สูตรพริกน้ำปลา )"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood184",
+    "menu_th": "ข้าวผัดกุ้ง",
+    "source_url": "https://nlovecooking.com/ข้าวผัดกุ้ง/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ข้าวหอมมะลิหุงสุก 1 จาน",
+      "กุ้งขาว 5 ตัว (ตัดหัว แกะเปลืือก และ ผ่าเส้นที่หลังออก)",
+      "กระเทียมบด 1 ช้อนชา",
+      "น้ำปลา 2 ช้อนโต้ะ",
+      "น้ำตาลทราย 1 ช้อนชา",
+      "ซอสปรุงรส 1 ช้อนโต้ะ",
+      "น้ำมันพืชสำหรับผัด 3 ช้อนโต้ะ",
+      "ไข่ 1 ฟอง",
+      "หอมใหญ่ สับเป็นเต๋า 2 ช้อนโต้ะ",
+      "แครอท หั่นเต๋า 1 ช้อนโต้ะ",
+      "ผักชีซอย 1 ช้อนชา",
+      "แตงกวาหั่นเป็นชี้น สำหรับทานกับข้าวผัด",
+      "มะเขือเทศหั่น 3 ชิ้น",
+      "มะนาวหั่น 1 ชิ้น สำหรับทานกับข้าวผัด",
+      "ต้นหอม สำหรับทานกับข้าวผัด"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood185",
+    "menu_th": "ข้าวผัดต้มยำ",
+    "source_url": "https://nlovecooking.com/ข้าวผัดต้มยำ/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood186",
+    "menu_th": "วุ้นส้ม",
+    "source_url": "https://nlovecooking.com/วุ้นส้ม/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "น้ำสะอาด 1 ลิตร",
+      "ผงวุ้น 2 ช้อนชา",
+      "น้ำตาลทราย 4 ช้อน",
+      "น้ำส้มคั้น 1 ลิตร",
+      "เนื้อส้ม หั่นเป็นชิ้นเล็ก 1 ถ้วย"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood187",
+    "menu_th": "วุ้นกะทิเป็ด",
+    "source_url": "https://nlovecooking.com/วุ้นกะทิเป็ด/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood188",
+    "menu_th": "เต้าหู้นมสด",
+    "source_url": "https://nlovecooking.com/เต้าหู้นมสด/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ผงเจลาติน 1 ช้อนโต้ะ",
+      "ผงวุ้น 1 ช้อนโต้ะ",
+      "น้ำเปล่า 2 ถ้วย",
+      "น้ำเต้าหู้ 3 ถ้วย",
+      "นมข้นจืด 1 ถ้วย",
+      "นมข้นหวาน 1 ถ้วย",
+      "ผลไม้ สำหรับแต่งหน้า เช่น สับปรด ส้ม แก้วมังกร เป็นต้น"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood189",
+    "menu_th": "ข้าวเหนียวสังขยา",
+    "source_url": "https://nlovecooking.com/ข้าวเหนียวสังขยา/",
+    "status": "source_link_only",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood190",
+    "menu_th": "ข้าวเหนียวถั่วดำ",
+    "source_url": "https://nlovecooking.com/ขนมข้าวเหนียวถั่วดำ/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood191",
+    "menu_th": "ข้าวเหนียวขนุน",
+    "source_url": "https://nlovecooking.com/ข้าวเหนียวขนุน/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ขนุน 1 ลูก ( แกะเอาเนื้อขนุนสุก เอาเฉพาะเนื้อขนุน เอาเม็ดขนุนออก )",
+      "หัวกะทิ 1 ถ้วย",
+      "เกลือ 1 ช้อนชา",
+      "น้ำตาล 2 ช้อนโต้ะ"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood192",
+    "menu_th": "กล้วยฉาบ",
+    "source_url": "https://nlovecooking.com/กล้วยฉาบ/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "กล้วยน้ำว้า 1 หวี เลือกกล้วยห่ามๆ",
+      "น้ำตาลทราย หนึ่งกิโลกรัม",
+      "เกลือ 2 ช้อนชา",
+      "เนย 2 ช้อนโต้ะ",
+      "น้ำเปล่า 1 ลิตร",
+      "น้ำมันสำหรับทอด"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood193",
+    "menu_th": "ขนมทองหยอด",
+    "source_url": "https://nlovecooking.com/ขนมทองหยอด/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ไข่เป็ด 20 ฟอง ( แยกเอาเฉพาะไข่แดง )",
+      "น้ำตาลทราย 1 กิโลกรัม",
+      "น้ำลอยดอกมะลิ 3 ลิตร",
+      "แป้งข้าวจ้าว 0.5 กิโลกรัม",
+      "ใบเตย 5 ใบ",
+      "เกลือ 1 ช้อนชา"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood194",
+    "menu_th": "ขนมทองเอก",
+    "source_url": "https://nlovecooking.com/ขนมทองเอก/",
+    "status": "source_link_only",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood195",
+    "menu_th": "บัวลอยมันส้ม",
+    "source_url": "https://nlovecooking.com/บัวลอยมันส้ม/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "แป้งมัน 1 กิโลกรัม",
+      "แป้งข้าวเหนียว 1 กิโลกรัม",
+      "มันเทศสีส้ม 1 ลูก",
+      "แครอท 1 ลูก",
+      "น้ำอุ่น 1/2 ถ้วยตวง",
+      "ใบเตย 3-4 ใบ",
+      "เกลือ 1 ช้อนชา",
+      "หัวกะทิ 1 กิโลกรัม",
+      "หางกะทิ 1 กิโลกรัม",
+      "น้ำตาลปี๊บ 1/2 กิโลกรัม",
+      "เนื้อมะพร้าวอ่อนขูด 1 ถ้วยตวง",
+      "เผือกหั่นเป็นลูกเต๋า 1 ถ้วยตวง"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood196",
+    "menu_th": "ขนมข้าวเกรียบอ่อน",
+    "source_url": "https://nlovecooking.com/ขนมข้าวเกรียบอ่อน/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ถั่วเขียวผ่าสีซีก 400 กรัม",
+      "เนื้อมะพร้าวขูดฝอย 100 กรัม",
+      "น้ำตาลทราย 500 กรัม",
+      "แป้งข้าวเจ้า 800 กรัม",
+      "แป้งท้าว 200 กรัม",
+      "แป้งมัน 400 กรัม",
+      "หัวกะทิ 500 กรัม",
+      "งาดำคั่ว 3 ช้อนโต้ะ",
+      "น้ำใบเตยคั้นสด 2 ช้อนโต้ะ",
+      "มะพร้าวขูดผอย 200 กรัม"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood197",
+    "menu_th": "ตะโก้เผือก",
+    "source_url": "https://nlovecooking.com/ตะโก้เผือก/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "แป้งข้าวเจ้า 1 กิโลกรัม",
+      "แป้งมัน 1 ทัพพี ( สำหรับผสมแป้ง )",
+      "น้ำเปล่า 1 ลิตร",
+      "น้ำตาล 8 ช้อนโต้ะ ( สำหรับผสมแป้ง )",
+      "เผือก หั่นลูกเต๋า 1 ถ้วย",
+      "หางกะทิ 1 ถ้วย",
+      "หัวกะทิ 1 ถ้วย",
+      "แป้งข้าวโพด 1 ทัพพี",
+      "แป้งมัน 1 ช้อนชา ( สำหรับผสมกะทิ )",
+      "เกลือ 1 ช้อนโต้ะ",
+      "กระทงสำหรับใส่ตะโก้"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood198",
+    "menu_th": "ขนมจาวตาล",
+    "source_url": "https://nlovecooking.com/ขนมจาวตาลเชื่อม/",
+    "status": "source_link_only",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood199",
+    "menu_th": "ราดหน้าเย็นตาโฟ",
+    "source_url": "https://nlovecooking.com/ราดหน้าเย็นตาโฟ/",
+    "status": "title_needs_review",
+    "ingredients": [],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  },
+  {
+    "class_id": "ThaiFood200",
+    "menu_th": "ข้าวแช่",
+    "source_url": "https://nlovecooking.com/ข้าวแช่/",
+    "status": "recipe_ingredients",
+    "ingredients": [
+      "ข้าวหอมมะลิเก่า 2 ถ้วยตวง",
+      "น้ำลอยดอกมะลิ 2 ถ้วยตวง",
+      "สารส้ม 1 ก้อน สำหรับขัดข้าว",
+      "เครื่องเคียงข้าวแช่ ประกอบด้วย ลูกกะปิ หอมแดงยัดไส้ พริกหยวกสอดไส้ หมูฝอย หรือ เนื้อฝอย ไชโป๊ผัดไข่",
+      "ผักที่ใช้ทานกับข้าวแช่ เช่น กระชาย มะม่วงดิบ ขมิ้น เป็นต้น"
+    ],
+    "image_urls": [],
+    "image_rights": "not_verified_do_not_use_for_training"
+  }
+]
