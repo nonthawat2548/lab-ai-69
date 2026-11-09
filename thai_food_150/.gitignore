@@ -1,0 +1,9 @@
+# Training images and archives belong in local / Google Drive storage, not GitHub.
+raw_images/
+data/
+downloaded_archives/
+*.zip
+*.pth
+*.pt
+__pycache__/
+.ipynb_checkpoints/
