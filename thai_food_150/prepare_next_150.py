@@ -23,7 +23,19 @@ def find_zip(base):
              Path("/content/thaifood_drive/MyDrive/ThaiFood150/archives/THDESS-20.zip")]
     for p in options:
         if p.is_file() and zipfile.is_zipfile(p):return p
-    raise FileNotFoundError("THDESS-20.zip not found in known mounted Drive paths")
+    target=base/"archives/THDESS-20.zip"
+    if target.exists():
+        raise ValueError(f"Existing dessert archive is invalid: {target}")
+    print("THDESS-20 missing; trying automatic download...",flush=True)
+    try:
+        import gdown
+    except ImportError as exc:
+        raise RuntimeError("Install gdown: pip install gdown") from exc
+    target.parent.mkdir(parents=True,exist_ok=True)
+    result=gdown.download(id="16nvoQOusNCd0Nju6YTwbvvDV7yfRoTQg",output=str(target),quiet=False,fuzzy=True)
+    if not result or not zipfile.is_zipfile(target):
+        raise RuntimeError("THDESS-20 download failed; mount Drive containing the original archive")
+    return target
 
 def main():
     ap=argparse.ArgumentParser()
