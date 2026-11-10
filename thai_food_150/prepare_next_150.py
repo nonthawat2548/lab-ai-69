@@ -82,7 +82,7 @@ def main():
     with (out/"candidate_classes_150.csv").open("w",encoding="utf-8-sig",newline="") as f:
         columns=["target_index","class_id","menu_th","origin","source_class_id","status"];w=csv.DictWriter(f,fieldnames=columns);w.writeheader()
         for i,r in enumerate(selected):
-            w.writerow({"target_index":i,**r,"status":"candidate_preliminary_audit"})
+            w.writerow({"target_index":i,**{k:r.get(k,"") for k in ("class_id","menu_th","origin","source_class_id")},"status":"candidate_preliminary_audit"})
         for i,r in enumerate(extra,120):
             w.writerow({"target_index":i,**r,"status":"candidate_new_dessert_needs_review"})
         for i in range(129,150):w.writerow({"target_index":i,"status":"NO_VERIFIED_IMAGES_YET"})
