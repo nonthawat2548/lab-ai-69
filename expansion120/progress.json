@@ -1,0 +1,16 @@
+{
+  "target_classes": 120,
+  "legacy_classes_retained": 50,
+  "additional_THFOOD100_classes": 61,
+  "additional_THDESS20_classes": 9,
+  "target_classes_without_identified_source": 0,
+  "public_source_label_mapping_completed": true,
+  "dataset_built": false,
+  "model_trained": false,
+  "deployed_vision_classes": 50,
+  "THFOOD100_original_archive_images": 53459,
+  "THDESS20_original_archive_images": 5242,
+  "THFOOD100_sample_images_downloaded_and_decoded": 500,
+  "split_rule": "Preserve original source train/val/test splits; keep Forms external test separate",
+  "scope": "120-menu target selected; source availability is not a trained classifier"
+}

@@ -1,0 +1,35 @@
+{
+  "target_classes": 200,
+  "current_deployed_classes": 50,
+  "new_target_classes": 150,
+  "trained_200_model": false,
+  "images_collected_for_new_classes": 0,
+  "status": "preparation_only_dataset_not_ready",
+  "recipe_source": "https://nlovecooking.com/อาหารไทย/",
+  "new_class_group_counts": {
+    "dessert": 25,
+    "stirfried_fried_grilled_other": 40,
+    "rice_noodles": 20,
+    "salad_dip": 30,
+    "soup_curry_steamed": 35
+  },
+  "public_image_sources": [
+    {
+      "name": "THFOOD-50",
+      "url": "https://github.com/chakkritte/THFOOD-50",
+      "reported_classes": 50,
+      "role": "existing source; split/dedup review required for new model"
+    },
+    {
+      "name": "THFOOD-100",
+      "url": "https://github.com/NawanolT/THFOOD-100",
+      "reported_classes": 100,
+      "reported_images": 53459,
+      "mapping_verified": false,
+      "license": "non-commercial research and educational use only",
+      "role": "candidate image source; overlaps with THFOOD50 unknown; not automatically additive"
+    }
+  ],
+  "runtime_change": "none; existing Space stays on original 50-class checkpoint",
+  "external_test_photos": "Keep images collected in Google Forms as held-out external test; do not silently reuse them for training."
+}

@@ -1,0 +1,101 @@
+source_class_id,source_name_th,source_name_en,sample_images,mapping_status,target_class_id,target_name_th,related_target_class_id,note
+0,ข้าวผัดอเมริกัน,Khao Phat Amerikan,5,exact_label_match,ThaiFood080,ข้าวผัดอเมริกัน,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+1,ข้าวหน้าไก่,Khao Na Kai,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+2,ปอเปี๊ยะทอด,Po Pia Thot,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+3,ผัดซีอิ๊ว,Phat See Ew,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+4,กระเพาะปลาน้ำแดง,Krapo Pla Nam Dang,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+5,ไส้กรอกอีสาน,Sai Krok Isan,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+6,ลาบคั่ว,Lap Kua,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+7,ไก่ผัดเม็ดมะม่วงหิมพานต์,Gai Phat Med Mamuang Himmapan,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+8,ผัดพริกแกง,Phat Prik Gang,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+9,ผัดพริกไทยดำ,Phat Prik Thai Dam,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+10,ปลานึ่งซีอิ๊ว,Pla Nueng See Ew,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+11,ผัดแขนง,Phat Khanaeng,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+12,ไข่กระทะ,Khai Krata,5,exact_label_match,ThaiFood055,ไข่กระทะ,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+13,แกงจืด,Kang Chued,5,exact_label_match,GaengJued,แกงจืด,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+14,ก๋วยเตี๋ยวเรือ,Kuaitiao Ruea,5,exact_label_match,KuayTeowReua,ก๋วยเตี๋ยวเรือ,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+15,ไข่ตุ๋น,Khai Tun,5,exact_label_match,KaiThoon,ไข่ตุ๋น,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+16,โรตี,Roti,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+17,หมูฮ้อง,Mu Hong,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+18,น้ำพริกหนุ่ม,Nam Prik Num,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+19,ผัดไทยห่อไข่,Phat Thai Ho Khai,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+20,แกงเขียวหวาน,Kaeng Khiao Wan,5,exact_label_match,GaengKeawWan,แกงเขียวหวาน,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+21,น้ำพริกอ่อง,Nam Prik Ong,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+22,ข้าวแช่,Khao Chae,5,exact_label_match,ThaiFood200,ข้าวแช่,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+23,ข้าวคลุกกะปิ,Khao Kluk Kapi,5,exact_label_match,KkaoKlukKaphi,ข้าวคลุกกะปิ,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+24,ปลาหมึกทอด,Pla Muek Thot,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+25,คั่วกลิ้ง,Kua Kling,5,exact_label_match,KuaKling,คั่วกลิ้ง,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+26,ผัดคะน้า,Phat Kana,5,exact_label_match,FriedKale,ผัดคะน้า,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+27,ปลานึ่งมะนาว,Pla Nueng Manao,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+28,ต้มข่า,Tom Kha,5,class_boundary_review,,,TomKhaGai,Source-label match only; photos and ambiguous class boundaries require review before merging.
+29,ยำวุ้นเส้น,Yam Woon Sen,5,exact_label_match,YamWoonSen,ยำวุ้นเส้น,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+30,ปลาเผา,Pla Phao,5,exact_label_match,Roast_fish,ปลาเผา,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+31,ปลาหมึกผัดน้ำดำ,Pla Muek Phat Nam Dam,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+32,เกี๊ยวทอด,Kiao Thot,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+33,กั้งทอดกระเทียม,Kang Thot Kratiam,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+34,ผัดผักบุ้งไฟแดง,Phat Pak Bung Fai Daeng,5,alias_label_match,PadPakBung,ผัดผักบุ้ง,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+35,เต้าหู้ทอด,Tao Hoo Thot,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+36,ยำหอย,Yam Hoi,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+37,สุกี้แห้ง,Suki Haeng,5,class_boundary_review,,,Suki,Source-label match only; photos and ambiguous class boundaries require review before merging.
+38,กุ้งทอด,Kung Thot,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+39,ปอเปี๊ยะสด,Po Pia Sod,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+40,ผัดพริกสด,Phat Prik Sod,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+41,แกงฮังเล,Kaeng Hang Le,5,exact_label_match,ThaiFood129,แกงฮังเล,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+42,ขนมจีบ,Khanom Cheeb,5,exact_label_match,Dumpling,ขนมจีบ,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+43,ก๋วยเตี๋ยวคั่วไก่,Kuaitiao Kua Kai,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+44,ปูนิ่มทอดกระเทียม,Pu Nim Thot Kratiam,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+45,กะหล่ำปลีผัดน้ำปลา,Kalampli Phat Nam Pla,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+46,ข้าวหมกไก่,Khao Mok Kai,5,exact_label_match,KhaoMokGai,ข้าวหมกไก่,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+47,ผัดกะปิ,Phat Kapi,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+48,ไส้อั่ว,Sai Ua,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+49,ยำปลาดุกฟู,Yam Pla Duk Fu,5,exact_label_match,ThaiFood110,ยำปลาดุกฟู,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+50,หอยทอด,Hoi Thot,5,exact_label_match,FriedMusselPancakes,หอยทอด,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+51,ผัดกะเพรา,Phat Kaprao,5,exact_label_match,PhatKaphrao,ผัดกะเพรา,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+52,ข้าวสวย,Khao Suai,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+53,หอยจ๊อ,Hoi Cho,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+54,หอยผัดน้ำพริกเผา,Hoi Phat Nam Prik Phao,5,class_boundary_review,,,HoyLaiPrikPao,Source-label match only; photos and ambiguous class boundaries require review before merging.
+55,ข้าวขาหมู,Khao Kha Mu,5,exact_label_match,StewedPorkLeg,ข้าวขาหมู,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+56,แกงคั่วหอย,Kaeng Kua Hoi,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+57,ข้าวต้ม,Khao Tom,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+58,ข้าวหมูแดง,Khao Mu Daeng,5,exact_label_match,KaoMooDang,ข้าวหมูแดง,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+59,พะโล้,Palo,5,class_boundary_review,,,EggsStewed,Source-label match only; photos and ambiguous class boundaries require review before merging.
+60,คั่วพริกเกลือ,Kua Prik Kluea,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+61,ราดหน้า,Rat Na,5,class_boundary_review,,,PorkStickyNoodles,Source-label match only; photos and ambiguous class boundaries require review before merging.
+62,เต้าเจี้ยวหลน,Tao Jiao Lon,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+63,เย็นตาโฟ,Yentafo,5,exact_label_match,Yentafo,เย็นตาโฟ,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+64,ปลาหมึกนึ่งมะนาว,Pla Muek Ngueng Manao,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+65,แกงป่า,Kaeng Pa,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+66,โจ๊ก,Chok,5,exact_label_match,Joke,โจ๊ก,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+67,ขนมจีนน้ำเงี้ยว,Khanom Cheen Nam Ngiao,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+68,ก๋วยจั๊บ,Kuaichap,5,alias_label_match,KuayJab,กวยจั๊บ,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+69,แกงส้ม,Kaeng Som,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+70,หอยนางรม,Hoi Nangrom,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+71,ขนมจีน,Khanom Cheen,5,class_boundary_review,,,KhanomJeenNamYaKati,Source-label match only; photos and ambiguous class boundaries require review before merging.
+72,แกงเหลือง,Kaeng Lueang,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+73,กุ้งแช่น้ำปลา,Kung Chae Nam Pla,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+74,กุ้งทอดซอสมะขาม,Kung Thot Sot Makham,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+75,หมูกรอบ,Mu Krop,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+76,ปูผัดผงกะหรี่,Pu Phat Phong Kari,5,exact_label_match,BooPadPongali,ปูผัดผงกะหรี่,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+77,ไข่เจียว,Khai Chiao,5,class_boundary_review,,,KaiJeowMooSaap,Source-label match only; photos and ambiguous class boundaries require review before merging.
+78,กุ้งอบวุ้นเส้น,Kung Ob Wunsen,5,exact_label_match,GoongObWoonSen,กุ้งอบวุ้นเส้น,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+79,ผัดฉ่า,Phat Cha,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+80,หอยแครงลวก,Hoi Kraeng Luak,5,exact_label_match,HoyKraeng,หอยแครงลวก,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+81,ห่อหมก,Ho Mok,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+82,ปลาหมึกผัดไข่เค็ม,Pla Muek Phat Kai Kem,5,exact_label_match,ThaiFood062,ปลาหมึกผัดไข่เค็ม,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+83,ผัดไทย,Phat Thai,5,exact_label_match,PadThai,ผัดไทย,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+84,ทอดมันกุ้ง,Thot Man Kung,5,exact_label_match,ThaiFood074,ทอดมันกุ้ง,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+85,สะเต๊ะ,Sate,5,class_boundary_review,,,MooSatay,Source-label match only; photos and ambiguous class boundaries require review before merging.
+86,ข้าวมันไก่,Khao Man Kai,5,exact_label_match,KaoManGai,ข้าวมันไก่,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+87,ไก่ทอด,Kai Thot,5,exact_label_match,FriedChicken,ไก่ทอด,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+88,ลาบ,Lap,5,class_boundary_review,,,LarbMoo,Source-label match only; photos and ambiguous class boundaries require review before merging.
+89,ใบเหลียงผัดไข่,Bai Liang Phat Khai,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+90,ข้าวซอย,Khao Soi,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+91,เกาเหลา,Kao Lao,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+92,ทอดมันปลา,Thot Man Pla,5,exact_label_match,CurriedFishCake,ทอดมันปลา,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+93,ปูนึ่ง,Pu Nueng,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+94,หมูย่าง,Mu Yang,5,class_boundary_review,,,KorMooYang,Source-label match only; photos and ambiguous class boundaries require review before merging.
+95,ส้มตำ,Som Tam,5,exact_label_match,Somtam,ส้มตำ,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+96,กุ้งเผา,Kung Phao,5,exact_label_match,GoongPao,กุ้งเผา,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+97,ข้าวผัด,Khao Phat,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.
+98,ต้มยำ,Tom Yam,5,class_boundary_review,,,TomYumGoong,Source-label match only; photos and ambiguous class boundaries require review before merging.
+99,ปลาทอด,Pla Thot,5,outside_current_taxonomy,,,,Source-label match only; photos and ambiguous class boundaries require review before merging.

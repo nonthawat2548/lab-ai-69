@@ -1,0 +1,24 @@
+{
+  "archive_bytes": 151501112,
+  "archive_sha256": "5e321e0d0777ca6f875dc76be328651cfd5f3a05aa8cdac70e58053435c7a032",
+  "source_classes": 100,
+  "decoded_sample_images": 500,
+  "images_per_class": {
+    "5": 100
+  },
+  "mapping_counts": {
+    "exact_label_match": 33,
+    "outside_current_taxonomy": 54,
+    "class_boundary_review": 11,
+    "alias_label_match": 2
+  },
+  "mapped_legacy_classes": 28,
+  "mapped_additional_target_classes": 7,
+  "uncovered_target_classes_in_this_sample": 165,
+  "exact_duplicate_groups": [],
+  "errors": [],
+  "ready_for_training": false,
+  "note": "Sample has only five images per source class. Mapping uses source text labels; it is not a reviewed training dataset or evidence of 200-class model accuracy.",
+  "full_dataset_drive_id": "1ZHwErRGhLQIHpSyKYT44Lhxbxbk3Odcs",
+  "full_dataset_bytes_from_drive_metadata": 16894645941
+}
